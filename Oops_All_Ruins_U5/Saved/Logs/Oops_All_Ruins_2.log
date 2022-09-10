@@ -9748,3 +9748,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.10-05.20.30:686][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
 [2022.09.10-05.20.30:772][634]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2022.09.10-05.20.57:162][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.09.10-05.20.58:510][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/AZTEC_RUN_1_Auto1
+[2022.09.10-05.20.58:511][785]LogSavePackage: Moving '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/AZTEC_RUN_1_Auto1E5A703A4446FC97FAF75659BE2E771CB.tmp' to '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/Autosaves/Game/Maps/AZTEC_RUN_1_Auto1.umap'
+[2022.09.10-05.20.58:534][785]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/AZTEC_RUN_1' took 1.380
+[2022.09.10-05.20.58:534][785]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.380
+[2022.09.10-05.20.58:535][785]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Traps_BP/Spinning_Fire_Platforms] ([2] browsable assets)...
+[2022.09.10-05.20.58:606][785]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Traps_BP/Spinning_Fire_Platforms.Spinning_Fire_Platforms]
+[2022.09.10-05.20.58:606][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Traps_BP/Spinning_Fire_Platforms]
+[2022.09.10-05.20.58:614][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Traps_BP/Spinning_Fire_Platforms_Auto1
+[2022.09.10-05.20.58:614][785]LogSavePackage: Moving '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/Spinning_Fire_Platforms_Auto15B330C454152F8BCD5EA30B09B221463.tmp' to '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/Autosaves/Game/Traps_BP/Spinning_Fire_Platforms_Auto1.uasset'
+[2022.09.10-05.20.58:615][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/QuetzalcoatlHead_mat] ([1] browsable assets)...
+[2022.09.10-05.20.58:641][785]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/QuetzalcoatlHead_mat.QuetzalcoatlHead_mat]
+[2022.09.10-05.20.58:641][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/QuetzalcoatlHead_mat]
+[2022.09.10-05.20.58:644][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/QuetzalcoatlHead_mat_Auto1
+[2022.09.10-05.20.58:644][785]LogSavePackage: Moving '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/QuetzalcoatlHead_mat_Auto1054245CF4CC347C51349878682B3754B.tmp' to '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/Autosaves/Game/Materials/QuetzalcoatlHead_mat_Auto1.uasset'
+[2022.09.10-05.20.58:645][785]LogFileHelpers: Auto-saving content packages took 0.110
