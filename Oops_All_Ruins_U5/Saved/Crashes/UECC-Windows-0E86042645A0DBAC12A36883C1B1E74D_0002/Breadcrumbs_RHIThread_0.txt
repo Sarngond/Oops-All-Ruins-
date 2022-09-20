@@ -1,0 +1,9 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 Scene
+	01 Lights
+	02 DirectLighting
+	03 UnbatchedLights
+	04 AZTEC_RUN_2.Light Source
+	05 ShadowBatch
+	06 AZTEC_RUN_2.Light Source
