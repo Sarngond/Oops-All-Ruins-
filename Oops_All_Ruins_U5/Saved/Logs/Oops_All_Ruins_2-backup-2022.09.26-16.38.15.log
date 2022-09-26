@@ -1,0 +1,1443 @@
+﻿Log file open, 09/26/22 11:37:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=9356)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Oops_All_Ruins
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject" 127.0.0.1:17777 -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings1 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=249 -WinY=309 SAVEWINPOS=1 -ResX=720 -ResY=450""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.2006] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 4900HS with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ef422bed459089d1ecab218269889fba"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.373223
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-295E71A9441E549ACA05D38D4AF0E4B7
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.07 seconds
+LogConfig: Display: Loading Mac ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.08 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading Windows ini files took 0.09 seconds
+LogConfig: Display: Loading Unix ini files took 0.09 seconds
+LogConfig: Display: Loading TVOS ini files took 0.09 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.10 seconds
+LogConfig: Display: Loading Linux ini files took 0.10 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ApexDestruction
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.2006] (), CPU: AMD Ryzen 9 4900HS with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  127.0.0.1:17777 -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings1 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=249 -WinY=309 SAVEWINPOS=1 -ResX=720 -ResY=450
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.26-16.37.32:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.26-16.37.32:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.26-16.37.32:917][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.26-16.37.32:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.26-16.37.32:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.26-16.37.32:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.26-16.37.32:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.26-16.37.32:918][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.26-16.37.32:918][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.26-16.37.32:918][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.26-16.37.32:918][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.26-16.37.32:926][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.26-16.37.32:992][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.26-16.37.32:992][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.26-16.37.33:164][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 with Max-Q Design (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.26-16.37.33:164][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 7894MB of shared system memory, 1 output[s]
+[2022.09.26-16.37.33:230][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.09.26-16.37.33:230][  0]LogD3D12RHI: Adapter has 496MB of dedicated video memory, 0MB of dedicated system memory, and 7894MB of shared system memory, 0 output[s]
+[2022.09.26-16.37.33:237][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.26-16.37.33:237][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7894MB of shared system memory, 0 output[s]
+[2022.09.26-16.37.33:237][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.26-16.37.33:237][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.26-16.37.33:237][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.26-16.37.33:238][  0]LogHAL: Display: Platform has ~ 16 GB [16556589056 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.26-16.37.33:238][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.26-16.37.33:238][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.26-16.37.33:238][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.26-16.37.33:238][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.26-16.37.33:238][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.26-16.37.33:239][  0]LogInit: Computer: LAPTOP-SQ87OKN6
+[2022.09.26-16.37.33:239][  0]LogInit: User: ROGPrimary
+[2022.09.26-16.37.33:239][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.09.26-16.37.33:239][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.26-16.37.33:239][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.09.26-16.37.33:239][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.26-16.37.33:239][  0]LogMemory: Process Physical Memory: 283.27 MB used, 297.29 MB peak
+[2022.09.26-16.37.33:239][  0]LogMemory: Process Virtual Memory: 252.16 MB used, 252.16 MB peak
+[2022.09.26-16.37.33:239][  0]LogMemory: Physical Memory: 8246.25 MB used,  7543.34 MB free, 15789.59 MB total
+[2022.09.26-16.37.33:239][  0]LogMemory: Virtual Memory: 17907.91 MB used,  10681.68 MB free, 28589.59 MB total
+[2022.09.26-16.37.33:239][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.26-16.37.33:245][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.26-16.37.33:259][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.26-16.37.33:260][  0]LogInit: Using OS detected language (en-US).
+[2022.09.26-16.37.33:260][  0]LogInit: Using OS detected locale (en-US).
+[2022.09.26-16.37.33:267][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.26-16.37.33:507][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.26-16.37.33:507][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.26-16.37.33:508][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.26-16.37.33:544][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.26-16.37.33:544][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.26-16.37.33:564][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.26-16.37.33:569][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.26-16.37.33:569][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.26-16.37.33:649][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.26-16.37.33:649][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.26-16.37.33:650][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.26-16.37.33:726][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.26-16.37.33:732][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.26-16.37.33:749][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.26-16.37.33:793][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.26-16.37.33:793][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.26-16.37.33:794][  0]LogD3D12RHI:     GPU DeviceId: 0x1f12 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.26-16.37.33:794][  0]LogWindows: Attached monitors:
+[2022.09.26-16.37.33:794][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.09.26-16.37.33:794][  0]LogWindows: Found 1 attached monitors.
+[2022.09.26-16.37.33:794][  0]LogWindows: EnumDisplayDevices:
+[2022.09.26-16.37.33:794][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.09.26-16.37.33:794][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.09.26-16.37.33:794][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.26-16.37.33:795][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.09.26-16.37.33:795][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.09.26-16.37.33:795][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.09.26-16.37.33:795][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.09.26-16.37.33:795][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.09.26-16.37.33:795][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.09.26-16.37.33:795][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060 with Max-Q Design
+[2022.09.26-16.37.33:795][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.09.26-16.37.33:795][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.09.26-16.37.33:795][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2022.09.26-16.37.33:795][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.26-16.37.33:795][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.26-16.37.33:807][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.26-16.37.33:812][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject"  -platform=all'
+[2022.09.26-16.37.33:812][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject"  -platform=all" ]
+[2022.09.26-16.37.33:831][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.26-16.37.33:839][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.26-16.37.33:839][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.26-16.37.33:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.26-16.37.33:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.26-16.37.33:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.26-16.37.33:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.26-16.37.33:850][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.26-16.37.33:869][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.26-16.37.33:871][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.26-16.37.33:871][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.26-16.37.33:871][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.26-16.37.33:871][  0]LogTargetPlatformManager:   PCM
+[2022.09.26-16.37.33:874][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.26-16.37.33:874][  0]LogTargetPlatformManager:   BINKA
+[2022.09.26-16.37.33:874][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.26-16.37.33:874][  0]LogTargetPlatformManager:   OGG
+[2022.09.26-16.37.33:874][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.26-16.37.33:874][  0]LogTargetPlatformManager:   OPUS
+[2022.09.26-16.37.33:917][  0]LogRendererCore: Ray tracing is enabled for the game. Reason: r.RayTracing=1, and r.RayTracing.EnableInGame is not present (default true).
+[2022.09.26-16.37.33:917][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.26-16.37.33:917][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.26-16.37.33:917][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.26-16.37.33:917][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.26-16.37.33:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.26-16.37.33:922][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.26-16.37.33:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.26-16.37.33:922][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.26-16.37.33:947][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.26-16.37.33:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.26-16.37.33:947][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.26-16.37.33:958][  0]LogDerivedDataCache: Speed tests for C:/Users/ROG Primary/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.26-16.37.33:958][  0]LogDerivedDataCache: Display: Performance to C:/Users/ROG Primary/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=211.73MBs, RandomWriteSpeed=161.76MBs. Assigned SpeedClass 'Local'
+[2022.09.26-16.37.33:959][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ROG Primary/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.26-16.37.33:959][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.26-16.37.33:959][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.26-16.37.33:968][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.26-16.37.33:968][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.26-16.37.33:969][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/Shaders/WorkingDirectory/11596/).
+[2022.09.26-16.37.33:969][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ROG Primary/AppData/Local/Temp/UnrealShaderWorkingDir/77DBACFF4F25241AD9C2CAADE44A933D/'.
+[2022.09.26-16.37.33:969][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.26-16.37.33:969][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.09.26-16.37.35:528][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.26-16.37.35:529][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.26-16.37.35:529][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.26-16.37.35:684][  0]LogInit: Using OS detected language (en-US).
+[2022.09.26-16.37.35:684][  0]LogInit: Using OS detected locale (en-US).
+[2022.09.26-16.37.35:684][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.26-16.37.35:684][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.09.26-16.37.35:684][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.09.26-16.37.35:684][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.09.26-16.37.35:701][  0]LogAssetRegistry: FAssetRegistry took 0.0154 seconds to start up
+[2022.09.26-16.37.35:885][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.001826 seconds
+[2022.09.26-16.37.35:885][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.26-16.37.35:886][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2022.09.26-16.37.36:287][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.26-16.37.36:287][  0]LogDeviceProfileManager: Active device profile: [00000977F1519680][00000977E6F30000 50] WindowsEditor
+[2022.09.26-16.37.36:287][  0]LogDeviceProfileManager: Profiles: [00000977F1519140][00000977E6F35000 50] Windows, [00000977F1519680][00000977E6F30000 50] WindowsEditor, [00000977F1518340][00000977E6ED7800 50] WindowsServer, [00000977F1514280][00000977DA075000 50] WindowsClient, [00000977F1515400][00000977E6F32800 50] IOS, [00000977F1518DC0][00000977DA23A000 50] iPadAir2, [00000977F1515240][00000977F16F2800 50] IPadPro, [00000977F1519F40][00000977F16F0000 50] iPadAir3, [00000977F1518880][00000977F16F7800 50] iPadAir4, [00000977F1519840][00000977F16FA000 50] iPadMini4, [00000977F15155C0][00000977F16FC800 50] iPadMini5, [00000977F1518C00][00000977E6E9C800 50] iPadMini6, [00000977F151C940][00000977F1765000 50] iPhone6S, [00000977F151C780][00000977F1762800 50] iPhone7, [00000977F151C400][00000977F1760000 50] iPodTouch7, [00000977F1516900][00000977F176A000 50] iPhone6SPlus, [00000977F1517FC0][00000977F176C800 50] iPhone7Plus, [00000977F151A800][00000977F16F5000 50] iPhoneSE, [00000977F1516580][00000977F1770000 50] iPhone8, [00000977F1516C80][00000977F1775000 50] iPhone8Plus, [00000977F151AB80][00000977F1777800 50] iPhoneX, [00000977F1514980][00000977F177A000 50] iPhoneXS, [00000977F1514EC0][00000977F177C800 50] iPhoneXSMax, [00000977F1515780][00000977F1767800 50] iPhoneXR, [00000977F1517A80][00000977F1780000 50] iPhone11, [00000977F151A9C0][00000977F1785000 50] iPhone11Pro, [00000977F15186C0][00000977F1787800 50] iPhone11ProMax, [00000977F1515CC0][00000977F178A000 50] iPhoneSE2, [00000977F1514B40][00000977F178C800 50] iPhone12Mini, [00000977F151C080][00000977F1772800 50] iPhone12, [00000977F1517000][00000977F17E0000 50] iPhone12Pro, [00000977F151BEC0][00000977F17E5000 50] iPhone12ProMax, [00000977F1518180][00000977F17E7800 50] iPhone13Mini, [00000977F1517380][00000977F17EA000 50] iPhone13, [00000977F1515940][00000977F17EC800 50] iPhone13Pro, [00000977F1517E00][00000977F1782800 50] iPhone13ProMax, [00000977F1515080][00000977F17F0000 50] iPadPro105, [00000977F1516AC0][00000977F17F5000 50] iPadPro129, [00000977F151AF00][00000977F17F7800 50] iPadPro97, [00000977F151BD00][00000977F17FA000 50] iPadPro2_129, [00000977F15178C0][00000977F17FC800 50] iPad5, [00000977F15194C0][00000977F17E2800 50] iPad6, [00000977F1517540][00000977F17A0000 50] iPad7, [00000977F151B280][00000977F17A5000 50] iPad8, [00000977F151B7C0][00000977F17A7800 50] iPad9, [00000977F1519A00][00000977F17AA000 50] iPadPro11, [00000977F1516E40][00000977F17AC800 50] iPadPro2_11, [00000977F1517700][00000977F17F2800 50] iPadPro3_11, [00000977F151B980][00000977F17B0000 50] iPadPro3_129, [00000977F1516200][00000977F17B5000 50] iPadPro4_129, [00000977F1515E80][00000977F17B7800 50] iPadPro5_129, [00000977F151B440][00000977F17BA000 50] AppleTV, [00000977F1514600][00000977F17BC800 50] AppleTV4K, [00000977F1515B00][00000977F17A2800 50] TVOS, [00000977F151E8C0][00000977F17C2800 50] Mac, [00000977F151E700][00000977F17C0000 50] MacEditor, [00000977F151BB40][00000977F17C7800 50] MacClient, [00000977F151E1C0][00000977F17CA000 50] MacServer, [00000977F151F340][00000977F17B2800 50] Linux, [00000977F151F6C0][00000977F17CC800 50] LinuxEditor, [00000977F15163C0][00000977F1990000 50] LinuxArm64Editor, [00000977F151CE80][00000977F1995000 50] LinuxArm64, [00000977F151C5C0][00000977F1997800 50] LinuxClient, [00000977F151D3C0][00000977F199A000 50] LinuxArm64Client, [00000977F151B600][00000977F199C800 50] LinuxServer, [00000977F151A640][00000977F17C5000 50] LinuxArm64Server, [00000977F151C240][00000977F19A0000 50] Android, [00000977F151FA40][00000977F19A5000 50] Android_Preview_OpenGL, [00000977F15147C0][00000977F19A7800 50] Android_Preview_Vulkan, [00000977F15171C0][00000977F19AA000 50] Android_Low, [00000977F151EC40][00000977F19AC800 50] Android_Mid, [00000977F1519BC0][00000977F1992800 50] Android_High, [00000977F151E540][00000977F19B0000 50] Android_Default, [00000977F1516740][00000977F19B5000 50] Android_Adreno4xx, [00000977F151A480][00000977F19B7800 50] Android_Adreno5xx_Low, [00000977F151D740][00000977F19BA000 50] Android_Adreno5xx, [00000977F151B0C0][00000977F19BC800 50] Android_Adreno6xx, [00000977F151EA80][00000977F19A2800 50] Android_Adreno6xx_Vulkan, [00000977F151EE00][00000977F19C0000 50] Android_Adreno7xx, [00000977F1518500][00000977F19C5000 50] Android_Adreno7xx_Vulkan, [00000977F151D580][00000977F19C7800 50] Android_Mali_T6xx, [00000977F1517C40][00000977F19CA000 50] Android_Mali_T7xx, [00000977F151EFC0][00000977F19CC800 50] Android_Mali_T8xx, [00000977F151DC80][00000977F19B2800 50] Android_Mali_G71, [00000977F151D900][00000977F19D0000 50] Android_Mali_G72, [00000977F19E0000][00000977F19D5000 50] Android_Mali_G72_Vulkan, [00000977F19E24C0][00000977F19D7800 50] Android_Mali_G76, [00000977F19E2840][00000977F19DA000 50] Android_Mali_G76_Vulkan, [00000977F19E1F80][00000977F19DC800 50] Android_Mali_G77, [00000977F19E2300][00000977F19C2800 50] Android_Mali_G77_Vulkan, [00000977F19E1A40][00000977F19F0000 50] Android_Mali_G78, [00000977F19E2F40][00000977F19F5000 50] Android_Mali_G78_Vulkan, [00000977F19E3100][00000977F19F7800 50] Android_Mali_G710, [00000977F19E1880][00000977F19FA000 50] Android_Mali_G710_Vulkan, [00000977F19E0380][00000977F19FC800 50] Android_Xclipse_920, [00000977F19E16C0][00000977F19D2800 50] Android_Xclipse_920_Vulkan, [00000977F19E2140][00000977F1A00000 50] Android_Vulkan_SM5, [00000977F19E3B80][00000977F1A05000 50] Android_PowerVR_G6xxx, [00000977F19E3480][00000977F1A07800 50] Android_PowerVR_GT7xxx, [00000977F19E3F00][00000977F1A0A000 50] Android_PowerVR_GE8xxx, [00000977F19E40C0][00000977F1A0C800 50] Android_PowerVR_GM9xxx, [00000977F19E3640][00000977F19F2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000977F19E08C0][00000977F1A10000 50] Android_TegraK1, [00000977F19E32C0][00000977F1A15000 50] Android_Unknown_Vulkan, [00000977F19E01C0][00000977F1A17800 50] Oculus_Quest, [00000977F19E0A80][00000977F1A1A000 50] Oculus_Quest2, [00000977F19E4440][00000977F1A1C800 50] HoloLens, 
+[2022.09.26-16.37.36:287][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.26-16.37.36:306][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.26-16.37.36:502][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.26-16.37.36:502][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.26-16.37.36:502][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.26-16.37.36:502][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.26-16.37.36:502][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.26-16.37.36:519][  0]LogNetVersion: Oops_All_Ruins 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3607359060)
+[2022.09.26-16.37.36:790][  0]SourceControl: Source control is disabled
+[2022.09.26-16.37.36:823][  0]SourceControl: Source control is disabled
+[2022.09.26-16.37.36:823][  0]SourceControl: Source control is disabled
+[2022.09.26-16.37.37:023][  0]LogMoviePlayer: Initializing movie player
+[2022.09.26-16.37.37:186][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1A4E3F5E434C24101DBB93B1554491DF | Instance: 0566D756487CDF7B77B84BB88F4CE664 (LAPTOP-SQ87OKN6-11596).
+[2022.09.26-16.37.37:212][  0]LogCollectionManager: Loaded 0 collections in 0.003010 seconds
+[2022.09.26-16.37.37:216][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/Collections/' took 0.00s
+[2022.09.26-16.37.37:216][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/Developers/ROGPrimary/Collections/' took 0.00s
+[2022.09.26-16.37.37:216][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.09.26-16.37.37:230][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/Collections/' took 0.00s
+[2022.09.26-16.37.37:230][  0]LogPython: Using Python 3.9.7
+[2022.09.26-16.37.37:894][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.26-16.37.37:897][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.26-16.37.37:941][  0]SourceControl: Source control is disabled
+[2022.09.26-16.37.37:948][  0]LogUProjectInfo: Found projects:
+[2022.09.26-16.37.38:021][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.26-16.37.38:058][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.26-16.37.38:068][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.26-16.37.38:068][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.26-16.37.38:167][  0]LogUObjectArray: 27236 objects as part of root set at end of initial load.
+[2022.09.26-16.37.38:167][  0]LogUObjectAllocator: 7771416 out of 0 bytes used by permanent object pool.
+[2022.09.26-16.37.38:167][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.26-16.37.38:254][  0]LogEngine: Initializing Engine...
+[2022.09.26-16.37.38:258][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.26-16.37.38:472][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.26-16.37.38:473][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.26-16.37.38:479][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.26-16.37.38:480][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.26-16.37.38:480][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.26-16.37.38:480][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.26-16.37.38:480][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.26-16.37.38:480][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.26-16.37.38:480][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.26-16.37.38:480][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.26-16.37.38:480][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.26-16.37.38:480][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.26-16.37.38:480][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.26-16.37.38:480][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.26-16.37.38:480][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.26-16.37.38:480][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.26-16.37.38:480][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.26-16.37.38:480][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.26-16.37.38:487][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.26-16.37.38:529][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.09.26-16.37.38:530][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.26-16.37.38:531][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.26-16.37.38:531][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.26-16.37.38:532][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.26-16.37.38:532][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.26-16.37.38:533][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.26-16.37.38:533][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.26-16.37.38:533][  0]LogInit: FAudioDevice initialized.
+[2022.09.26-16.37.38:533][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.26-16.37.38:533][  0]LogInit: Texture streaming: Enabled
+[2022.09.26-16.37.38:648][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.26-16.37.38:653][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.26-16.37.38:653][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.26-16.37.38:658][  0]LogLiveCoding: Display: Detected running instance in process group "UE_Oops_All_Ruins_0xd12950b6", connecting to console process (PID: 22140)
+[2022.09.26-16.37.38:658][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.26-16.37.38:658][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.26-16.37.38:658][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-16.37.38:658][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-16.37.38:659][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.26-16.37.38:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-16.37.38:660][  0]LogInit: Display: Game Engine Initialized.
+[2022.09.26-16.37.38:660][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.09.26-16.37.38:682][  0]LogInit: Display: Starting Game.
+[2022.09.26-16.37.38:682][  0]LogNet: Browse: 127.0.0.1:17777/Game/Maps/Map1_LoadingScene?Name=Player
+[2022.09.26-16.37.38:683][  0]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.09.26-16.37.38:683][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.09.26-16.37.38:683][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.09.26-16.37.38:683][  0]LogNet: Game client on port 17777, rate 100000
+[2022.09.26-16.37.38:683][  0]LogViewport: Scene viewport resized to 720x450, mode Windowed.
+[2022.09.26-16.37.38:717][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.26-16.37.38:735][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.26-16.37.38:735][  0]LogLoad: (Engine Initialization) Total time: 7.66 seconds
+[2022.09.26-16.37.38:735][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.26-16.37.38:738][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.26-16.37.38:745][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-16.37.39:002][  0]LogAutomationController: Ignoring very large delta of 16946821.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.09.26-16.37.45:018][499]LogHandshake: SendChallengeResponse. Timestamp: 0.000100, Cookie: 078061199150000035072205141106206221250246030183047094018052
+[2022.09.26-16.37.45:018][499]LogHandshake: SendChallengeResponse. Timestamp: 0.000100, Cookie: 078061199150000035072205141106206221250246030183047094018052
+[2022.09.26-16.37.45:018][499]LogHandshake: SendChallengeResponse. Timestamp: 0.000100, Cookie: 078061199150000035072205141106206221250246030183047094018052
+[2022.09.26-16.37.45:836][226]LogNetVersion: Oops_All_Ruins 1.0.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3639603187)
+[2022.09.26-16.37.45:836][226]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.09.26-16.37.45:902][287]LogNet: Welcomed by server (Level: /Game/Maps/AZTEC_RUN_2, Game: /Game/ThirdPerson/Blueprints/MainMenu/BP_GM_BasicSetup.BP_GM_BasicSetup_C)
+[2022.09.26-16.37.45:903][287]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/AZTEC_RUN_2?Name=Player?game=/Game/ThirdPerson/Blueprints/MainMenu/BP_GM_BasicSetup.BP_GM_BasicSetup_C
+[2022.09.26-16.37.45:903][287]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.09.26-16.37.45:903][287]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-16.37.45:904][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-16.37.45:909][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.26-16.37.45:912][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.26-16.37.49:434][287]LogAudio: Display: Audio Device (ID: 1) registered with world 'AZTEC_RUN_2'.
+[2022.09.26-16.37.49:434][287]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.26-16.37.49:434][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.26-16.37.49:916][287]LogWorld: Bringing World /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2 up for play (max tick rate 0) at 2022.09.26-11.37.49
+[2022.09.26-16.37.49:934][287]LogNiagara: Compiling System NiagaraSystem /Game/Particles/UpdatedParticles/TorchFire_smaller_System.TorchFire_smaller_System took 0.568020 sec, no shader worker used.
+[2022.09.26-16.37.49:956][287]LogWorld: Bringing up level for play took: 0.487081
+[2022.09.26-16.37.50:005][287]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.26-16.37.50:008][287]LogLoad: Took 4.104645 seconds to LoadMap(/Game/Maps/AZTEC_RUN_2)
+[2022.09.26-16.37.50:029][287]LogNiagara: Compiling System NiagaraSystem /Game/Particles/UpdatedParticles/DustBiggerExplosion_System.DustBiggerExplosion_System took 0.803928 sec, no shader worker used.
+[2022.09.26-16.37.50:141][287]LogAutomationController: Ignoring very large delta of 4.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.09.26-16.37.51:390][289]LogD3D12RHI: Creating RTPSO with 131 shaders (0 cached, 131 new) took 806.50 ms. Compile time 313.86 ms, link time 492.21 ms.
+[2022.09.26-16.37.51:693][289]LogD3D12RHI: Creating RTPSO with 9 shaders (0 cached, 9 new) took 61.47 ms. Compile time 39.76 ms, link time 21.61 ms.
+[2022.09.26-16.37.51:763][289]LogD3D12RHI: Creating RTPSO with 134 shaders (0 cached, 3 new) took 33.32 ms. Compile time 2.93 ms, link time 29.88 ms.
+[2022.09.26-16.37.51:850][289]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 222.06 ms. Compile time 7.13 ms, link time 214.89 ms.
+[2022.09.26-16.37.52:025][289]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.26-16.37.52:039][289]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.26-16.37.52:041][289]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.26-16.37.52:054][289]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.26-16.37.52:056][289]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.26-16.37.52:069][289]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_0. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_1. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_10. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_11. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_12. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_13. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_14. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_18. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_19. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_2. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_20. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_21. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_22. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_23. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_3. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_4. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_5. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor PushTrap_BP_C_0. Function Start Movement will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor PushTrap_BP_C_1. Function Start Movement will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor PushTrap_BP_C_2. Function Start Movement will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor PushTrap_BP_C_3. Function Start Movement will not be processed.
+[2022.09.26-16.37.53:518][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor PushTrap_BP_C_4. Function Start Movement will not be processed.
+[2022.09.26-16.37.53:519][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SwingingLog_BP_C_0. Function Handle Movement will not be processed.
+[2022.09.26-16.37.53:519][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SwingingLog_BP_C_1. Function Handle Movement will not be processed.
+[2022.09.26-16.37.53:519][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SwingingLog_BP_C_2. Function Handle Movement will not be processed.
+[2022.09.26-16.37.53:519][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SwingingLog_BP_C_3. Function Handle Movement will not be processed.
+[2022.09.26-16.37.53:519][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_6. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:519][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_7. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:519][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_8. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:519][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_9. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:519][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor SmallBoulder_BP_C_15. Function Spawn Object on server will not be processed.
+[2022.09.26-16.37.53:519][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-16.37.53:520][289]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.09.26-16.37.53:520][289]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.09.26-16.37.53:550][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1360. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1578. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1589. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1591. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1666. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1668. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1670. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1674. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1687. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_175. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_2300. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_305. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4627. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:551][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4629. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4839. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4841. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4843. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4845. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4850. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6882. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6885. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6887. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6889. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6891. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6893. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6895. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6897. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6899. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6901. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6903. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6905. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:552][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6969. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6971. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6973. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6975. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6992. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6996. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7000. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7452. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7454. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7456. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:553][289]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7458. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.53:561][289]LogAutomationController: Ignoring very large delta of 3.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.09.26-16.37.53:824][290]LogD3D12RHI: Creating RTPSO with 137 shaders (3 cached, 3 new) took 19.23 ms. Compile time 15.55 ms, link time 3.31 ms.
+[2022.09.26-16.37.53:836][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-16.37.54:121][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor spike_C_1. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:121][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor spike_C_2. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:121][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor spike_C_3. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:121][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor spike_C_4. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:121][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1360. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:121][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1578. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:121][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1589. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1591. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1666. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1668. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1670. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1674. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_1687. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_175. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_2300. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_305. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:122][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4627. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4629. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4839. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4841. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4843. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4845. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_4850. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6882. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6885. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6887. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6889. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6891. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6893. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6895. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6897. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6899. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6901. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6903. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:123][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6905. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6969. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6971. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6973. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6975. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6992. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_6996. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7000. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7452. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7454. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7456. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:124][292]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor StaticMeshActor_7458. Function Trigger Spikes will not be processed.
+[2022.09.26-16.37.54:197][294]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.26-16.37.54:308][294]LogD3D12RHI: Creating RTPSO with 139 shaders (0 cached, 2 new) took 37.18 ms. Compile time 8.39 ms, link time 28.50 ms.
+[2022.09.26-16.37.54:380][297]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.26-16.38.01:570][547]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.BreakableWall_BP_C_3736.BreakableWall_2_geo4_GeometryCollection'' but no physics body.
+[2022.09.26-16.38.01:705][552]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.BreakableWall_BP_C_3736.BreakableWall_2_geo4_GeometryCollection'' but no physics body.
+[2022.09.26-16.38.04:302][643]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Third_Person_Game_Mode_New
+	Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.TriggerVolume_2
+	Function /Game/Blueprints/Checkpoint_BP.Checkpoint_BP_C:ExecuteUbergraph_Checkpoint_BP:0153
+[2022.09.26-16.38.04:302][643]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Checkpoint_BP.Checkpoint_BP_C:BndEvt__Checkpoint_BP_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Checkpoint_BP.Checkpoint_BP_C:ExecuteUbergraph_Checkpoint_BP
+
+[2022.09.26-16.38.04:302][643]LogScript: Warning: Attempted to assign to None
+	Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.TriggerVolume_2
+	Function /Game/Blueprints/Checkpoint_BP.Checkpoint_BP_C:ExecuteUbergraph_Checkpoint_BP:0168
+[2022.09.26-16.38.04:302][643]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Checkpoint_BP.Checkpoint_BP_C:BndEvt__Checkpoint_BP_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/Blueprints/Checkpoint_BP.Checkpoint_BP_C:ExecuteUbergraph_Checkpoint_BP
+
+[2022.09.26-16.38.04:302][643]LogBlueprintUserMessages: [TriggerVolume_2] Spawn Set
+[2022.09.26-16.38.05:028][667]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:053][668]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:089][669]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:124][670]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:152][671]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:183][672]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:207][673]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:230][674]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:249][675]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:272][676]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:293][677]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:312][678]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:336][679]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:359][680]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:379][681]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:407][682]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:428][683]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:452][684]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:471][685]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:525][686]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:546][687]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:567][688]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:589][689]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:609][690]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:631][691]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:654][692]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:677][693]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:700][694]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:720][695]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:742][696]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:765][697]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:788][698]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:814][699]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:839][700]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:863][701]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:886][702]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:912][703]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:933][704]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:958][705]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.05:978][706]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:002][707]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:021][708]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:042][709]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:068][710]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:087][711]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:114][712]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:136][713]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:159][714]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:176][715]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:196][716]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:222][717]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:244][718]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:269][719]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:286][720]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:305][721]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:329][722]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:346][723]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:367][724]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:390][725]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:407][726]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:429][727]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:452][728]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:470][729]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:489][730]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:511][731]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:530][732]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:552][733]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:574][734]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:593][735]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:613][736]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:636][737]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:654][738]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:676][739]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:698][740]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:718][741]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:744][742]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:767][743]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:790][744]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:807][745]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:825][746]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:852][747]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:870][748]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:898][749]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:921][750]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:945][751]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:967][752]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.06:991][753]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:012][754]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:035][755]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:038][755]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.BreakableWall_BP_C_3736.BreakableWall_2_geo4_GeometryCollection'' but no physics body.
+[2022.09.26-16.38.07:055][756]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:077][757]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:124][758]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:146][759]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:168][760]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:190][761]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:218][762]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:238][763]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:265][764]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:285][765]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:311][766]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:329][767]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:357][768]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:376][769]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:398][770]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:420][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:442][772]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:466][773]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:485][774]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:511][775]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:531][776]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:556][777]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:574][778]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:595][779]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:622][780]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:643][781]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:670][782]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:692][783]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:717][784]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:739][785]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:763][786]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:785][787]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:808][788]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:829][789]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:851][790]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:873][791]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:895][792]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:920][793]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:941][794]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:967][795]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.07:989][796]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:014][797]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:036][798]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:060][799]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:081][800]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:104][801]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:124][802]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:143][803]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:168][804]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:190][805]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:220][806]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:249][807]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:282][808]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:315][809]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:347][810]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:369][811]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:395][812]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:423][813]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:459][814]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:491][815]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:517][816]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:542][817]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:569][818]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:598][819]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:630][820]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:652][821]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:686][822]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:721][823]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:751][824]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:794][825]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:843][826]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:862][827]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:887][828]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:910][829]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.08:966][830]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:002][831]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:053][832]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:105][833]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:155][834]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:207][835]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:240][836]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:277][837]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:323][838]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:358][839]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:407][840]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:459][841]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:510][842]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:561][843]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:596][844]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:646][845]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:699][846]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:732][847]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:782][848]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:833][849]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:855][850]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:902][851]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.09:953][852]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:015][853]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:069][854]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:129][855]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:188][856]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:252][857]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:312][858]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:371][859]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:432][860]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:510][861]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:598][862]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:664][863]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:725][864]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:811][865]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:892][866]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.10:950][867]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:000][868]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:076][869]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:182][870]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:265][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-16.38.11:267][871]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:284][872]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:346][873]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:419][874]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:463][875]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:518][876]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:584][877]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:666][878]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:730][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:789][880]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:858][881]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:920][882]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.11:986][883]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:048][884]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:110][885]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:173][886]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:253][887]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:315][888]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:379][889]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:411][890]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:447][891]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:477][892]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:505][893]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:529][894]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:573][895]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:599][896]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:638][897]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:672][898]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:693][899]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:726][900]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:748][901]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:784][902]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:816][903]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:846][904]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:876][905]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:909][906]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:940][907]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.12:964][908]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.13:003][909]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.13:025][910]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.13:065][911]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor AZTEC_RUN_C_0. Function Handle End Game will not be processed.
+[2022.09.26-16.38.13:170][912]LogSlate: Window 'Oops_All_Ruins (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.09.26-16.38.13:171][912]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.26-16.38.13:177][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-16.38.13:177][912]LogEngine: All Windows Closed
+[2022.09.26-16.38.13:178][912]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.09.26-16.38.13:178][912]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.09.26-16.38.13:178][912]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.09.26-16.38.13:178][913]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.09.26-16.38.13:178][913]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.09.26-16.38.13:178][913]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.09.26-16.38.13:178][913]LogInit: Display: PreExit Game.
+[2022.09.26-16.38.13:192][913]LogWorld: BeginTearingDown for /Game/Maps/AZTEC_RUN_2
+[2022.09.26-16.38.13:193][913]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2022.09.26-16.38.13:193][913]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2022.09.26-16.38.13:194][913]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: BP_PC_BasicSetup_C_0, Owner: BP_PC_BasicSetup_C_0, UniqueId: NULL:LAPTOP-SQ87OKN6-CA8558E5425220A38B26F4ACE3D85D03, Channels: 58, Time: 2022.09.26-16.38.13
+[2022.09.26-16.38.13:194][913]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: BP_PC_BasicSetup_C_0, Owner: BP_PC_BasicSetup_C_0, UniqueId: NULL:LAPTOP-SQ87OKN6-CA8558E5425220A38B26F4ACE3D85D03
+[2022.09.26-16.38.13:194][913]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2022.09.26-16.38.13:199][913]LogWorld: UWorld::CleanupWorld for AZTEC_RUN_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-16.38.13:228][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-16.38.13:279][913]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.09.26-16.38.13:279][913]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.09.26-16.38.13:279][913]LogAudio: Display: Audio Device unregistered from world 'AZTEC_RUN_2'.
+[2022.09.26-16.38.13:307][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.09.26-16.38.13:309][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.09.26-16.38.13:316][913]LogAudio: Display: Audio Device Manager Shutdown
+[2022.09.26-16.38.13:318][913]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.09.26-16.38.13:318][913]LogExit: Preparing to exit.
+[2022.09.26-16.38.13:329][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.26-16.38.13:337][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.09.26-16.38.13:375][913]LogMoviePlayer: Shutting down movie player
+[2022.09.26-16.38.13:984][913]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.09.26-16.38.13:986][913]LogExit: Game engine shut down
+[2022.09.26-16.38.14:143][913]LogExit: Object subsystem successfully closed.
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: ================================================
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.26-16.38.14:153][913]LogShaderCompilers: Display: ================================================
+[2022.09.26-16.38.14:249][913]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module GameplayDebugger (524)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module Voice (520)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module AnimGraph (518)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module SequenceRecorder (514)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module AutomationController (512)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module AutomationWorker (510)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (506)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (504)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (502)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module WebMMedia (500)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module PlanarCut (496)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module SessionServices (492)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (490)
+[2022.09.26-16.38.14:270][913]LogModuleManager: Shutting down and abandoning module LiveCoding (488)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (486)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module MovieScene (484)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (482)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module PortalServices (480)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module AudioMixer (473)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module AudioMixerCore (472)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (468)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module TypedElementFramework (466)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
+[2022.09.26-16.38.14:284][913]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (458)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (456)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module InterchangePipelines (454)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module InterchangeExport (452)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module InterchangeMessages (450)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module InterchangeImport (448)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module InterchangeNodes (446)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (444)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module Synthesis (442)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module ResonanceAudio (440)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (438)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module ModelingOperators (436)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module ModelingComponents (434)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module MeshModelingTools (432)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module GooglePAD (430)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (428)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (427)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module DynamicMesh (420)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (418)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (416)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module CableComponent (414)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module AudioCapture (412)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (411)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (408)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module AssetTags (406)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module AndroidPermission (404)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (402)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module AppleImageUtils (400)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (398)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module TemplateSequence (394)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module SequencerScripting (392)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module BackChannel (386)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (384)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (382)
+[2022.09.26-16.38.14:461][913]LogOpenImageDenoise: OIDN shutting down
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (380)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (378)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (377)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module ChaosNiagara (374)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module AutomationUtils (372)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (370)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module HotReload (369)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module UObjectPlugin (366)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (364)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (362)
+[2022.09.26-16.38.14:461][913]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (360)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module ControlRigSpline (358)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (356)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module SoundFields (354)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (352)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module SignificanceManager (350)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (348)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (346)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (344)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (343)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (340)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (338)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module ApexDestruction (336)
+[2022.09.26-16.38.14:462][913]LogModuleManager: Shutting down and abandoning module UdpMessaging (334)
+[2022.09.26-16.38.14:563][913]LogModuleManager: Shutting down and abandoning module TcpMessaging (332)
+[2022.09.26-16.38.14:916][913]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2022.09.26-16.38.14:916][913]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (328)
+[2022.09.26-16.38.14:916][913]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (326)
+[2022.09.26-16.38.14:916][913]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (324)
+[2022.09.26-16.38.14:916][913]LogModuleManager: Shutting down and abandoning module Niagara (322)
+[2022.09.26-16.38.14:916][913]LogModuleManager: Shutting down and abandoning module SignalProcessing (321)
+[2022.09.26-16.38.14:916][913]LogModuleManager: Shutting down and abandoning module NiagaraEditor (319)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module ContentBrowser (318)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module ToolMenus (317)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module CollectionManager (315)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (314)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module ContentBrowserData (311)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module NiagaraCore (306)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module PBIK (304)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module FullBodyIK (302)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module Paper2D (300)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (298)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module FacialAnimation (296)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (294)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module IKRig (292)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (290)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module GameplayCameras (286)
+[2022.09.26-16.38.14:917][913]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (284)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module AnimationSharing (282)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (280)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module ControlRig (278)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module LevelSequence (277)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (274)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (272)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (270)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module AndroidFileServer (268)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (266)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module PacketHandler (264)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module AnimationDataController (262)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module Sequencer (234)
+[2022.09.26-16.38.14:918][913]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2022.09.26-16.38.14:919][913]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2022.09.26-16.38.14:919][913]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (222)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module Messaging (214)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (212)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (210)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module Core (206)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module MaterialEditor (204)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module MovieSceneTools (202)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module EditorStyle (201)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module MeshBuilder (196)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module NaniteBuilder (194)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module MeshUtilities (192)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (191)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (190)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (189)
+[2022.09.26-16.38.14:920][913]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (187)
+[2022.09.26-16.38.14:921][913]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (185)
+[2022.09.26-16.38.14:921][913]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (183)
+[2022.09.26-16.38.14:921][913]LogModuleManager: Shutting down and abandoning module MaterialBaking (179)
+[2022.09.26-16.38.14:921][913]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (174)
+[2022.09.26-16.38.14:921][913]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (172)
+[2022.09.26-16.38.14:921][913]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (170)
+[2022.09.26-16.38.14:921][913]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (168)
+[2022.09.26-16.38.14:921][913]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2022.09.26-16.38.14:922][913]LogModuleManager: Shutting down and abandoning module TargetPlatform (164)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (163)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (161)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (159)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module AudioFormatBink (157)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (155)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (153)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (151)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (149)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module TextureFormat (147)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (146)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (144)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (142)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (140)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (138)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (136)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module ImageWrapper (135)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module TurnkeySupport (131)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module InputCore (128)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module Settings (126)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (104)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (102)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module HairStrandsCore (100)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2022.09.26-16.38.14:923][913]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.09.26-16.38.14:925][913]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.09.26-16.38.14:925][913]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.09.26-16.38.14:937][913]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.09.26-16.38.14:937][913]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2022.09.26-16.38.14:940][913]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.09.26-16.38.14:941][913]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.09.26-16.38.14:944][913]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.09.26-16.38.14:945][913]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2022.09.26-16.38.14:945][913]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2022.09.26-16.38.14:945][913]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2022.09.26-16.38.14:945][913]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2022.09.26-16.38.14:945][913]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2022.09.26-16.38.14:945][913]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2022.09.26-16.38.14:945][913]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2022.09.26-16.38.14:945][913]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.09.26-16.38.14:945][913]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.09.26-16.38.14:946][913]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.09.26-16.38.14:947][913]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.09.26-16.38.14:947][913]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.09.26-16.38.14:947][913]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.09.26-16.38.14:947][913]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.09.26-16.38.14:947][913]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.09.26-16.38.14:947][913]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.09.26-16.38.14:947][913]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.09.26-16.38.14:947][913]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.09.26-16.38.15:011][913]LogD3D12RHI: Display: D3D12 ReleaseResources: 130 items to release
+[2022.09.26-16.38.15:011][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "DispatchRaysDescBuffer", 104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0xC
+[2022.09.26-16.38.15:011][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "DispatchRaysDescBuffer", 104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0xC
+[2022.09.26-16.38.15:012][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "DispatchRaysDescBuffer", 104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0xC
+[2022.09.26-16.38.15:012][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "DispatchRaysDescBuffer", 104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0xC
+[2022.09.26-16.38.15:013][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "DispatchRaysDescBuffer", 104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0xC
+[2022.09.26-16.38.15:013][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "DispatchRaysDescBuffer", 104 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0xC
+[2022.09.26-16.38.15:013][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 720 x 450 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.09.26-16.38.15:013][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 720 x 450 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.09.26-16.38.15:013][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 720 x 450 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.09.26-16.38.15:094][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.09.26-16.38.15:095][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.09.26-16.38.15:095][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.09.26-16.38.15:095][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.09.26-16.38.15:095][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.09.26-16.38.15:096][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.09.26-16.38.15:096][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:118][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:118][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:118][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:118][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 3145728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:118][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 3145728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:119][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 3145728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:119][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 3145728 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:119][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.StreamingManager.ImposterData", 84934656 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:120][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.StreamingManager.ClusterPageData", 603979776 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:179][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.09.26-16.38.15:183][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.09.26-16.38.15:192][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.09.26-16.38.15:230][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:262][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "WholeSceneShadowmap", 6144 x 2048 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2022.09.26-16.38.15:328][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBFurthest", 512 x 256 x 1, Mips: 9, Format: 0x36, Flags: 0x4
+[2022.09.26-16.38.15:339][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 720 x 452 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.09.26-16.38.15:357][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 720 x 452 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.09.26-16.38.15:411][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.AtlasHZB", 4096 x 1024 x 1, Mips: 12, Format: 0x29, Flags: 0x4
+[2022.09.26-16.38.15:433][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 720 x 452 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.09.26-16.38.15:471][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 720 x 452 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.09.26-16.38.15:499][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "TAA.History", 720 x 452 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:506][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricFog.LightScattering", 90 x 57 x 128, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.09.26-16.38.15:523][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.09.26-16.38.15:551][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 23 x 15 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:618][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 720 x 452 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.09.26-16.38.15:619][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 45 x 43 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.09.26-16.38.15:619][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 45 x 43 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.09.26-16.38.15:620][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 360 x 344 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:620][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 720 x 452 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:620][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.09.26-16.38.15:620][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 23 x 15 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:620][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:620][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:621][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:621][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:621][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.09.26-16.38.15:621][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 720 x 452 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.09.26-16.38.15:621][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.09.26-16.38.15:621][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.09.26-16.38.15:622][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 360 x 225 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.09.26-16.38.15:622][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 360 x 225 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.09.26-16.38.15:622][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 180 x 113 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2022.09.26-16.38.15:622][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 180 x 113 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.09.26-16.38.15:622][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 45 x 43 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.09.26-16.38.15:622][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 45 x 43 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.09.26-16.38.15:622][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 360 x 344 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:622][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBFurthest", 512 x 256 x 1, Mips: 9, Format: 0x36, Flags: 0x4
+[2022.09.26-16.38.15:623][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 720 x 452 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.09.26-16.38.15:623][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "TAA.History", 720 x 452 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:623][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 720 x 452 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:623][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 720 x 452 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2022.09.26-16.38.15:623][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 720 x 452 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:623][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 720 x 452 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.09.26-16.38.15:623][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.09.26-16.38.15:624][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:624][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:624][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 23 x 15 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:624][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 23 x 15 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:634][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.09.26-16.38.15:634][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.TraceRadianceAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:641][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 720 x 452 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:642][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.TraceHitDistanceAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.09.26-16.38.15:642][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHRedAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:643][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.09.26-16.38.15:643][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHGreenAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:643][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHBlueAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:644][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 360 x 225 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.09.26-16.38.15:644][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 720 x 452 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.09.26-16.38.15:644][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 360 x 225 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.09.26-16.38.15:644][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 720 x 452 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.09.26-16.38.15:644][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 720 x 452 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.09.26-16.38.15:645][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:646][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.09.26-16.38.15:646][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.09.26-16.38.15:646][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.AtlasHZB", 4096 x 1024 x 1, Mips: 12, Format: 0x29, Flags: 0x4
+[2022.09.26-16.38.15:647][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaft.TemporalAA", 360 x 226 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:684][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.09.26-16.38.15:686][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2022.09.26-16.38.15:704][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.09.26-16.38.15:706][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricFog.LightScattering", 90 x 57 x 128, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.09.26-16.38.15:709][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.09.26-16.38.15:711][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaft.TemporalAA", 360 x 226 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:711][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2022.09.26-16.38.15:711][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2022.09.26-16.38.15:712][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2022.09.26-16.38.15:713][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2022.09.26-16.38.15:748][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2022.09.26-16.38.15:754][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.09.26-16.38.15:754][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.09.26-16.38.15:754][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.09.26-16.38.15:754][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.09.26-16.38.15:754][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.09.26-16.38.15:754][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.09.26-16.38.15:755][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.09.26-16.38.15:755][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.09.26-16.38.15:755][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainAndPostNodesAndClusterBatchesBuffer", 44040192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:757][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainRasterizeArgsSWHW", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:757][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:757][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:758][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.BuildHashTableIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:758][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.SafePostRasterizeArgsSWHW", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:758][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflection.CompactTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:758][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.HardwareRayTracing.IndirectArgsCS", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:758][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.PostRasterizeArgsSWHW", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:759][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FilterProbesIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:759][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceCacheHardwareRayTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:759][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FixupProbeBordersIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:759][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.SafeMainRasterizeArgsSWHW", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:759][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.SafeMainRasterizeArgsSWHW", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:760][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MaterialIndirectArgs", 327680 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:760][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDraw.IndirectBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.09.26-16.38.15:760][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:760][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:761][913]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.09.26-16.38.15:900][913]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.09.26-16.38.15:901][913]LogExit: Exiting.
+[2022.09.26-16.38.15:912][913]Log file closed, 09/26/22 11:38:15
