@@ -1,0 +1,1422 @@
+﻿Log file open, 09/12/22 22:42:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=3916)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Oops_All_Ruins
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\ROG Primary\Documents\GitHub\Oops-All-Ruins-\Oops_All_Ruins_U5\Oops_All_Ruins.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 4900HS with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ef422bed459089d1ecab218269889fba"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.251780
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-46D82E924BA5E6E7E197A08D04DA6C57
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1889] (), CPU: AMD Ryzen 9 4900HS with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.13-03.42.26:145][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.13-03.42.26:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.13-03.42.26:145][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.13-03.42.26:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.13-03.42.26:145][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.13-03.42.26:145][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.13-03.42.26:146][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.13-03.42.26:149][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.13-03.42.26:167][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.13-03.42.26:167][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.13-03.42.26:315][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 with Max-Q Design (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.13-03.42.26:315][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 7894MB of shared system memory, 2 output[s]
+[2022.09.13-03.42.26:369][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.09.13-03.42.26:369][  0]LogD3D12RHI: Adapter has 496MB of dedicated video memory, 0MB of dedicated system memory, and 7894MB of shared system memory, 0 output[s]
+[2022.09.13-03.42.26:373][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.13-03.42.26:373][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7894MB of shared system memory, 0 output[s]
+[2022.09.13-03.42.26:373][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.13-03.42.26:373][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.13-03.42.26:373][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.13-03.42.26:373][  0]LogHAL: Display: Platform has ~ 16 GB [16556589056 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.13-03.42.26:373][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.13-03.42.26:373][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.13-03.42.26:373][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.13-03.42.26:374][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.13-03.42.26:374][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.13-03.42.26:374][  0]LogInit: Computer: LAPTOP-SQ87OKN6
+[2022.09.13-03.42.26:374][  0]LogInit: User: ROGPrimary
+[2022.09.13-03.42.26:374][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.09.13-03.42.26:374][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.13-03.42.26:374][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.09.13-03.42.26:374][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.13-03.42.26:374][  0]LogMemory: Process Physical Memory: 281.58 MB used, 296.79 MB peak
+[2022.09.13-03.42.26:374][  0]LogMemory: Process Virtual Memory: 250.31 MB used, 250.31 MB peak
+[2022.09.13-03.42.26:374][  0]LogMemory: Physical Memory: 6709.16 MB used,  9080.44 MB free, 15789.59 MB total
+[2022.09.13-03.42.26:374][  0]LogMemory: Virtual Memory: 11010.78 MB used,  14210.61 MB free, 25221.39 MB total
+[2022.09.13-03.42.26:374][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.13-03.42.26:379][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.13-03.42.26:391][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.13-03.42.26:393][  0]LogInit: Using OS detected language (en-US).
+[2022.09.13-03.42.26:393][  0]LogInit: Using OS detected locale (en-US).
+[2022.09.13-03.42.26:398][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.13-03.42.26:561][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.13-03.42.26:576][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.13-03.42.26:576][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.13-03.42.26:576][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.13-03.42.26:590][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.13-03.42.26:590][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.13-03.42.26:705][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.13-03.42.26:707][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.13-03.42.26:707][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.13-03.42.26:796][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.13-03.42.26:857][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.13-03.42.26:866][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.13-03.42.26:882][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.13-03.42.26:902][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.13-03.42.26:902][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.13-03.42.26:927][  0]LogD3D12RHI:     GPU DeviceId: 0x1f12 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.13-03.42.26:927][  0]LogWindows: Attached monitors:
+[2022.09.13-03.42.26:927][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.09.13-03.42.26:927][  0]LogWindows:     resolution: 1920x1080, work area: (0, -1080) -> (1920, -40), device: '\\.\DISPLAY2'
+[2022.09.13-03.42.26:927][  0]LogWindows: Found 2 attached monitors.
+[2022.09.13-03.42.26:928][  0]LogWindows: EnumDisplayDevices:
+[2022.09.13-03.42.26:928][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.09.13-03.42.26:928][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.09.13-03.42.26:928][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.13-03.42.26:929][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.09.13-03.42.26:929][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.09.13-03.42.26:929][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.09.13-03.42.26:929][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.09.13-03.42.26:929][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.09.13-03.42.26:930][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.09.13-03.42.26:930][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060 with Max-Q Design
+[2022.09.13-03.42.26:930][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.09.13-03.42.26:930][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.09.13-03.42.26:930][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2022.09.13-03.42.26:930][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.13-03.42.26:930][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.13-03.42.26:941][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.13-03.42.26:947][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject"  -platform=all'
+[2022.09.13-03.42.26:947][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject"  -platform=all" ]
+[2022.09.13-03.42.26:969][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.13-03.42.26:977][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.13-03.42.26:977][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.13-03.42.26:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.13-03.42.26:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.13-03.42.26:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.13-03.42.26:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.13-03.42.26:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.13-03.42.26:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.13-03.42.26:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.13-03.42.26:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.13-03.42.26:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.13-03.42.26:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.13-03.42.27:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.13-03.42.27:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.13-03.42.27:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.13-03.42.27:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.13-03.42.27:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.13-03.42.27:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.13-03.42.27:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.13-03.42.27:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.13-03.42.27:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.13-03.42.27:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.13-03.42.27:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.13-03.42.27:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.13-03.42.27:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.13-03.42.27:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.13-03.42.27:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.13-03.42.27:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.13-03.42.27:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.13-03.42.27:020][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.13-03.42.27:026][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.13-03.42.27:028][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.13-03.42.27:028][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.13-03.42.27:028][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.13-03.42.27:028][  0]LogTargetPlatformManager:   PCM
+[2022.09.13-03.42.27:031][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.13-03.42.27:031][  0]LogTargetPlatformManager:   BINKA
+[2022.09.13-03.42.27:031][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.13-03.42.27:031][  0]LogTargetPlatformManager:   OGG
+[2022.09.13-03.42.27:031][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.13-03.42.27:031][  0]LogTargetPlatformManager:   OPUS
+[2022.09.13-03.42.27:068][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.13-03.42.27:068][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.13-03.42.27:072][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.13-03.42.27:075][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.13-03.42.27:075][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.13-03.42.27:075][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.13-03.42.27:075][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.13-03.42.27:075][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.13-03.42.27:075][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.13-03.42.27:075][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.13-03.42.27:075][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2022.09.13-03.42.27:075][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.13-03.42.27:075][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.13-03.42.27:075][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.13-03.42.27:075][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.13-03.42.27:079][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.13-03.42.27:079][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.13-03.42.27:079][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.13-03.42.27:079][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.13-03.42.27:098][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.13-03.42.27:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.13-03.42.27:098][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.13-03.42.27:107][  0]LogDerivedDataCache: Speed tests for C:/Users/ROG Primary/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.13-03.42.27:107][  0]LogDerivedDataCache: Display: Performance to C:/Users/ROG Primary/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=277.17MBs, RandomWriteSpeed=176.83MBs. Assigned SpeedClass 'Local'
+[2022.09.13-03.42.27:108][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ROG Primary/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.13-03.42.27:108][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.13-03.42.27:108][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.13-03.42.27:115][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.13-03.42.27:115][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.13-03.42.27:116][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/Shaders/WorkingDirectory/18984/).
+[2022.09.13-03.42.27:116][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ROG Primary/AppData/Local/Temp/UnrealShaderWorkingDir/E3E181714E0D6F1FADC896AA1DD32DB8/'.
+[2022.09.13-03.42.27:116][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.13-03.42.27:116][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.09.13-03.42.28:388][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.13-03.42.28:388][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.13-03.42.28:432][  0]LogAssetRegistry: FAssetRegistry took 0.0174 seconds to start up
+[2022.09.13-03.42.28:437][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.13-03.42.28:606][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.13-03.42.28:606][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.13-03.42.28:976][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.13-03.42.28:977][  0]LogDeviceProfileManager: Active device profile: [00000426DB696740][00000426B7F25000 50] WindowsEditor
+[2022.09.13-03.42.28:977][  0]LogDeviceProfileManager: Profiles: [00000426DB696900][00000426CFFEC800 50] Windows, [00000426DB696740][00000426B7F25000 50] WindowsEditor, [00000426DB695CC0][00000426D4067800 50] WindowsServer, [00000426DB693B80][00000426DB760000 50] WindowsClient, [00000426DB696040][00000426DB765000 50] IOS, [00000426DB6939C0][00000426DB767800 50] iPadAir2, [00000426DB6971C0][00000426DB76C800 50] IPadPro, [00000426DB697540][00000426DB76A000 50] iPadAir3, [00000426DB692140][00000426D406A000 50] iPadAir4, [00000426DB693F00][00000426DB7A0000 50] iPadMini4, [00000426DB696200][00000426DB7A5000 50] iPadMini5, [00000426DB693800][00000426DB7A7800 50] iPadMini6, [00000426DB699F40][00000426DB762800 50] iPhone6S, [00000426DB69A2C0][00000426DB7AC800 50] iPhone7, [00000426DB69A640][00000426DB7AA000 50] iPodTouch7, [00000426DB696E40][00000426DB7B0000 50] iPhone6SPlus, [00000426DB699BC0][00000426DB7B5000 50] iPhone7Plus, [00000426DB694B40][00000426DB7B7800 50] iPhoneSE, [00000426DB696C80][00000426DB7BA000 50] iPhone8, [00000426DB699A00][00000426DB7BC800 50] iPhone8Plus, [00000426DB6978C0][00000426DB7A2800 50] iPhoneX, [00000426DB692D80][00000426DB7C0000 50] iPhoneXS, [00000426DB699D80][00000426DB7C5000 50] iPhoneXSMax, [00000426DB694EC0][00000426DB7C7800 50] iPhoneXR, [00000426DB699140][00000426DB7CA000 50] iPhone11, [00000426DB6963C0][00000426DB7CC800 50] iPhone11Pro, [00000426DB696580][00000426DB7B2800 50] iPhone11ProMax, [00000426DB697380][00000426DB7E0000 50] iPhoneSE2, [00000426DB69AB80][00000426DB7E5000 50] iPhone12Mini, [00000426DB698DC0][00000426DB7E7800 50] iPhone12, [00000426DB69A800][00000426DB7EA000 50] iPhone12Pro, [00000426DB692300][00000426DB7EC800 50] iPhone12ProMax, [00000426DB694440][00000426DB7C2800 50] iPhone13Mini, [00000426DB690C40][00000426DB7F0000 50] iPhone13, [00000426DB693100][00000426DB7F5000 50] iPhone13Pro, [00000426DB691180][00000426DB7F7800 50] iPhone13ProMax, [00000426DB6955C0][00000426DB7FA000 50] iPadPro105, [00000426DB698F80][00000426DB7FC800 50] iPadPro129, [00000426DB693480][00000426DB7E2800 50] iPadPro97, [00000426DB695940][00000426DC990000 50] iPadPro2_129, [00000426DB699300][00000426DC995000 50] iPad5, [00000426DB69A480][00000426DC997800 50] iPad6, [00000426DB695080][00000426DC99A000 50] iPad7, [00000426DB692680][00000426DC99C800 50] iPad8, [00000426DB698180][00000426DB7F2800 50] iPad9, [00000426DB697A80][00000426DC9A0000 50] iPadPro11, [00000426DB698500][00000426DC9A5000 50] iPadPro2_11, [00000426DB698340][00000426DC9A7800 50] iPadPro3_11, [00000426DB697E00][00000426DC9AA000 50] iPadPro3_129, [00000426DB695240][00000426DC9AC800 50] iPadPro4_129, [00000426DB6947C0][00000426DC992800 50] iPadPro5_129, [00000426DB691F80][00000426DC9B0000 50] AppleTV, [00000426DB697700][00000426DC9B5000 50] AppleTV4K, [00000426DB698880][00000426DC9B7800 50] TVOS, [00000426DB69C400][00000426DC9BC800 50] Mac, [00000426DB69C780][00000426DC9BA000 50] MacEditor, [00000426DB694600][00000426DC9A2800 50] MacClient, [00000426DB695400][00000426DB790000 50] MacServer, [00000426DB698A40][00000426DB797800 50] Linux, [00000426DB69A100][00000426DB795000 50] LinuxEditor, [00000426DB69B0C0][00000426DB79A000 50] LinuxArm64Editor, [00000426DB694280][00000426DB79C800 50] LinuxArm64, [00000426DB69BEC0][00000426DC9B2800 50] LinuxClient, [00000426DB698C00][00000426DC9D0000 50] LinuxArm64Client, [00000426DB69B7C0][00000426DC9D5000 50] LinuxServer, [00000426DB693D40][00000426DC9D7800 50] LinuxArm64Server, [00000426DB69C5C0][00000426DC9DA000 50] Android, [00000426DB69C080][00000426DC9DC800 50] Android_Preview_OpenGL, [00000426DB694D00][00000426DB792800 50] Android_Preview_Vulkan, [00000426DB693640][00000426DC9E0000 50] Android_Low, [00000426DB695B00][00000426DC9E5000 50] Android_Mid, [00000426DB6932C0][00000426DC9E7800 50] Android_High, [00000426DB69B440][00000426DC9EA000 50] Android_Default, [00000426DB692F40][00000426DC9EC800 50] Android_Adreno4xx, [00000426DB69AD40][00000426DC9D2800 50] Android_Adreno5xx_Low, [00000426DB699840][00000426DC9F0000 50] Android_Adreno5xx, [00000426DB697C40][00000426DC9F5000 50] Android_Adreno6xx, [00000426DB695E80][00000426DC9F7800 50] Android_Adreno6xx_Vulkan, [00000426DB69CB00][00000426DC9FA000 50] Android_Adreno7xx, [00000426DB69BB40][00000426DC9FC800 50] Android_Adreno7xx_Vulkan, [00000426DB69AF00][00000426DC9E2800 50] Android_Mali_T6xx, [00000426DB69CCC0][00000426DCA00000 50] Android_Mali_T7xx, [00000426DB697000][00000426DCA05000 50] Android_Mali_T8xx, [00000426DB69CE80][00000426DCA07800 50] Android_Mali_G71, [00000426DB69A9C0][00000426DCA0A000 50] Android_Mali_G72, [00000426DB69D040][00000426DCA0C800 50] Android_Mali_G72_Vulkan, [00000426DB69C240][00000426DC9F2800 50] Android_Mali_G76, [00000426DB69B600][00000426DCA10000 50] Android_Mali_G76_Vulkan, [00000426DB69B980][00000426DCA15000 50] Android_Mali_G77, [00000426DB69C940][00000426DCA17800 50] Android_Mali_G77_Vulkan, [00000426DB69DC80][00000426DCA1A000 50] Android_Mali_G78, [00000426DB6994C0][00000426DCA1C800 50] Android_Mali_G78_Vulkan, [00000426DB69DE40][00000426DCA02800 50] Android_Mali_G710, [00000426DB69D200][00000426DCA20000 50] Android_Mali_G710_Vulkan, [00000426DB69E000][00000426DCA25000 50] Android_Xclipse_920, [00000426DB699680][00000426DCA27800 50] Android_Xclipse_920_Vulkan, [00000426DB69B280][00000426DCA2A000 50] Android_Vulkan_SM5, [00000426DB6986C0][00000426DCA2C800 50] Android_PowerVR_G6xxx, [00000426DB69EC40][00000426DCA12800 50] Android_PowerVR_GT7xxx, [00000426DB69D740][00000426DCA30000 50] Android_PowerVR_GE8xxx, [00000426DB69EE00][00000426DCA35000 50] Android_PowerVR_GM9xxx, [00000426DB692A00][00000426DCA37800 50] Android_PowerVR_GM9xxx_Vulkan, [00000426DB69EFC0][00000426DCA3A000 50] Android_TegraK1, [00000426DB6940C0][00000426DCA3C800 50] Android_Unknown_Vulkan, [00000426DB697FC0][00000426DCA22800 50] Oculus_Quest, [00000426DB69D900][00000426DCA40000 50] Oculus_Quest2, [00000426DB69BD00][00000426DCA45000 50] HoloLens, 
+[2022.09.13-03.42.28:977][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.13-03.42.29:002][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.13-03.42.29:183][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.13-03.42.29:183][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.13-03.42.29:183][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.13-03.42.29:183][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.13-03.42.29:183][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.13-03.42.29:199][  0]LogNetVersion: Oops_All_Ruins 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3607359060)
+[2022.09.13-03.42.29:332][  0]LogSlate: Border
+[2022.09.13-03.42.29:332][  0]LogSlate: BreadcrumbButton
+[2022.09.13-03.42.29:332][  0]LogSlate: Default
+[2022.09.13-03.42.29:332][  0]LogSlate: Icons.Save
+[2022.09.13-03.42.29:332][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.13-03.42.29:332][  0]LogSlate: ListView
+[2022.09.13-03.42.29:332][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.13-03.42.29:332][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.13-03.42.29:332][  0]LogSlate: TableView.DarkRow
+[2022.09.13-03.42.29:332][  0]LogSlate: TableView.Row
+[2022.09.13-03.42.29:332][  0]LogSlate: TreeView
+[2022.09.13-03.42.29:512][  0]SourceControl: Source control is disabled
+[2022.09.13-03.42.29:545][  0]SourceControl: Source control is disabled
+[2022.09.13-03.42.29:545][  0]SourceControl: Source control is disabled
+[2022.09.13-03.42.29:667][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.13-03.42.29:667][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.09.13-03.42.29:667][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.13-03.42.30:020][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CEAF70064868FF461AD98BBD74033C4B | Instance: 1A20481F42B3352D04D07E8D8FDB1785 (LAPTOP-SQ87OKN6-18984).
+[2022.09.13-03.42.30:058][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.13-03.42.30:063][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.13-03.42.30:076][  0]LogPython: Using Python 3.9.7
+[2022.09.13-03.42.30:966][  0]SourceControl: Source control is disabled
+[2022.09.13-03.42.30:969][  0]SourceControl: Source control is disabled
+[2022.09.13-03.42.30:971][  0]SourceControl: Source control is disabled
+[2022.09.13-03.42.30:983][  0]LogUProjectInfo: Found projects:
+[2022.09.13-03.42.31:165][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.13-03.42.31:178][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.13-03.42.31:199][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.13-03.42.31:199][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.13-03.42.31:296][  0]LogCollectionManager: Loaded 0 collections in 0.001905 seconds
+[2022.09.13-03.42.31:373][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/Collections/' took 0.00s
+[2022.09.13-03.42.31:373][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/Developers/ROGPrimary/Collections/' took 0.00s
+[2022.09.13-03.42.31:373][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/Collections/' took 0.00s
+[2022.09.13-03.42.31:641][  0]LogEngine: Initializing Engine...
+[2022.09.13-03.42.31:655][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.13-03.42.31:941][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.13-03.42.31:941][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-03.42.31:953][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-03.42.31:983][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.13-03.42.31:984][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.13-03.42.32:006][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.13-03.42.32:007][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.13-03.42.32:007][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.13-03.42.32:008][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.13-03.42.32:008][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.13-03.42.32:008][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.13-03.42.32:008][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.13-03.42.32:008][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.13-03.42.32:008][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.13-03.42.32:008][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.13-03.42.32:008][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.13-03.42.32:008][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.13-03.42.32:008][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.13-03.42.32:009][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.13-03.42.32:009][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.13-03.42.32:009][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.13-03.42.32:016][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.13-03.42.32:059][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2022.09.13-03.42.32:059][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.13-03.42.32:061][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.13-03.42.32:061][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.13-03.42.32:061][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.13-03.42.32:061][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.13-03.42.32:063][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.13-03.42.32:063][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.13-03.42.32:063][  0]LogInit: FAudioDevice initialized.
+[2022.09.13-03.42.32:063][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.13-03.42.32:063][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.13-03.42.32:063][  0]LogInit: Texture streaming: Enabled
+[2022.09.13-03.42.32:098][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.13-03.42.32:108][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.13-03.42.32:132][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.13-03.42.32:139][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.13-03.42.32:139][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.13-03.42.33:187][  0]LogLiveCoding: Display: First instance in process group "UE_Oops_All_Ruins_0xd12950b6", spawning console
+[2022.09.13-03.42.33:187][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.13-03.42.33:187][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.13-03.42.33:213][  0]LogInit: Transaction tracking system initialized
+[2022.09.13-03.42.33:292][  0]BlueprintLog: New page: Editor Load
+[2022.09.13-03.42.33:493][  0]LocalizationService: Localization service is disabled
+[2022.09.13-03.42.33:543][  0]TimingProfiler: Initialize
+[2022.09.13-03.42.33:543][  0]TimingProfiler: OnSessionChanged
+[2022.09.13-03.42.33:543][  0]LoadingProfiler: Initialize
+[2022.09.13-03.42.33:543][  0]LoadingProfiler: OnSessionChanged
+[2022.09.13-03.42.33:543][  0]NetworkingProfiler: Initialize
+[2022.09.13-03.42.33:543][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.13-03.42.33:543][  0]MemoryProfiler: Initialize
+[2022.09.13-03.42.33:543][  0]MemoryProfiler: OnSessionChanged
+[2022.09.13-03.42.33:608][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_12'
+[2022.09.13-03.42.33:608][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_12
+[2022.09.13-03.42.34:083][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/' took 0.01s
+[2022.09.13-03.42.34:083][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.13-03.42.34:309][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.13-03.42.34:311][  0]SourceControl: Source control is disabled
+[2022.09.13-03.42.34:311][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.529
+[2022.09.13-03.42.34:311][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/Maps/AZTEC_RUN_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.13-03.42.34:312][  0]LightingResults: New page: Lighting Build
+[2022.09.13-03.42.34:319][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-03.42.34:319][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-03.42.34:320][  0]MapCheck: New page: Map Check
+[2022.09.13-03.42.34:320][  0]LightingResults: New page: Lighting Build
+[2022.09.13-03.42.34:325][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.13-03.42.34:328][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.13-03.42.35:335][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'AZTEC_RUN_1'.
+[2022.09.13-03.42.35:335][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-03.42.35:335][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-03.42.35:336][  0]LogAIModule: Creating AISystem for world AZTEC_RUN_1
+[2022.09.13-03.42.35:809][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2022.09.13-03.42.35:830][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.13-03.42.35:830][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.13-03.42.35:831][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.478ms to complete.
+[2022.09.13-03.42.35:831][  0]LogFileHelpers: Loading map 'AZTEC_RUN_1' took 1.520
+[2022.09.13-03.42.35:846][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.064
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: ================================================
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.13-03.42.35:846][  0]LogShaderCompilers: Display: ================================================
+[2022.09.13-03.42.35:980][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.42.35:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.42.35:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.42.35:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.42.36:024][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:024][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:024][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:024][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:025][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:025][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:025][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:025][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:026][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:026][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:026][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:026][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:027][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:027][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:027][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:027][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:028][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:028][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:028][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.13-03.42.36:028][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.13-03.42.36:028][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.13-03.42.36:261][  0]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.13-03.42.36:266][  0]LogSlate: Took 0.000476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.13-03.42.36:267][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.13-03.42.36:268][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.13-03.42.36:269][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.13-03.42.36:306][  0]LogViewport: Scene viewport resized to 1170x559, mode Windowed.
+[2022.09.13-03.42.36:787][  0]LogD3D12RHI: Creating RTPSO with 108 shaders (0 cached, 108 new) took 165.19 ms. Compile time 150.58 ms, link time 14.41 ms.
+[2022.09.13-03.42.36:911][  0]LogD3D12RHI: Creating RTPSO with 9 shaders (0 cached, 9 new) took 41.83 ms. Compile time 30.46 ms, link time 11.30 ms.
+[2022.09.13-03.42.37:000][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 137.75 ms. Compile time 6.44 ms, link time 131.28 ms.
+[2022.09.13-03.42.37:000][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.13-03.42.37:016][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.13-03.42.37:018][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.13-03.42.37:036][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.13-03.42.37:037][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.13-03.42.37:053][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.13-03.42.37:420][  0]LogStall: Startup...
+[2022.09.13-03.42.37:422][  0]LogStall: Startup complete.
+[2022.09.13-03.42.37:435][  0]LogInput: Warning: Action Jump uses invalid key Daydream_Left_Select_Click.
+[2022.09.13-03.42.37:435][  0]LogInput: Warning: Action Jump uses invalid key MagicLeap_Left_Trigger.
+[2022.09.13-03.42.37:435][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.09.13-03.42.37:435][  0]LogInput: Warning: Action ResetVR uses invalid key Daydream_Left_Trackpad_Click.
+[2022.09.13-03.42.37:435][  0]LogInput: Warning: Action ResetVR uses invalid key MagicLeap_Left_Bumper.
+[2022.09.13-03.42.37:435][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.09.13-03.42.37:435][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.09.13-03.42.37:435][  0]LogLoad: (Engine Initialization) Total time: 12.65 seconds
+[2022.09.13-03.42.37:435][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.13-03.42.37:526][  0]LogAssetRegistry: Asset discovery search completed in 9.0956 seconds
+[2022.09.13-03.42.37:538][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.09.13-03.42.37:707][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_1.Column)
+[2022.09.13-03.42.37:707][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_10.Column)
+[2022.09.13-03.42.37:707][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_11.Column)
+[2022.09.13-03.42.37:707][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_12.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_13.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_14.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_15.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_16.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_2.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_3.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_5.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_6.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_7.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_8.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_9.Column)
+[2022.09.13-03.42.37:708][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_0.Column)
+[2022.09.13-03.42.37:709][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_1.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_1.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_10.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_10.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_11.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_11.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_12.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_12.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_13.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_13.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_14.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_14.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_15.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_15.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_16.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_16.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_2.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_2.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_3.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_3.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_5.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_5.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_6.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_6.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_7.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:759][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_7.Column)
+[2022.09.13-03.42.37:759][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_8.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:760][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_8.Column)
+[2022.09.13-03.42.37:760][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_9.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:760][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_9.Column)
+[2022.09.13-03.42.37:760][  0]LogPhysics: Warning: Scale for /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_0.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=15.000
+[2022.09.13-03.42.37:760][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_0.Column)
+[2022.09.13-03.42.37:903][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_1.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_10.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_11.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_12.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_13.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_14.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_15.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_16.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_2.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_3.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_5.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_6.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_7.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_8.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_9.Column)
+[2022.09.13-03.42.37:904][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_0.Column)
+[2022.09.13-03.42.38:013][  2]LogD3D12RHI: Creating RTPSO with 148 shaders (108 cached, 40 new) took 45.45 ms. Compile time 39.42 ms, link time 5.77 ms.
+[2022.09.13-03.42.38:013][  2]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.13-03.42.38:266][  5]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.13-03.42.38:273][  5]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.13-03.42.38:274][  5]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.13-03.42.38:385][  6]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.13-03.42.40:319][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.13-03.42.40:476][ 88]LogLinker: Warning: [AssetLog] C:\Users\ROG Primary\Documents\GitHub\Oops-All-Ruins-\Oops_All_Ruins_U5\Content\Maps\AZTEC_RUN_2.umap: Failed to load '/Game/Assets/Idol_HP': Can't find file.
+[2022.09.13-03.42.40:476][ 88]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/Idol_HP'
+[2022.09.13-03.42.40:476][ 88]LogLinker: Warning: [AssetLog] C:\Users\ROG Primary\Documents\GitHub\Oops-All-Ruins-\Oops_All_Ruins_U5\Content\Maps\AZTEC_RUN_2.umap: Failed to load '/Game/Assets/K_LargeBoulder_HP_Ver1_geo': Can't find file.
+[2022.09.13-03.42.40:476][ 88]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/K_LargeBoulder_HP_Ver1_geo'
+[2022.09.13-03.42.41:182][ 88]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2
+[2022.09.13-03.42.41:182][ 88]Cmd: MAP LOAD FILE="../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/Maps/AZTEC_RUN_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.13-03.42.41:182][ 88]LightingResults: New page: Lighting Build
+[2022.09.13-03.42.41:182][ 88]LoadErrors: New page: Loading map: AZTEC_RUN_2.umap
+[2022.09.13-03.42.41:213][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_1.Column)
+[2022.09.13-03.42.41:213][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_10.Column)
+[2022.09.13-03.42.41:213][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_11.Column)
+[2022.09.13-03.42.41:214][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_12.Column)
+[2022.09.13-03.42.41:214][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_13.Column)
+[2022.09.13-03.42.41:214][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_14.Column)
+[2022.09.13-03.42.41:214][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_15.Column)
+[2022.09.13-03.42.41:214][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_16.Column)
+[2022.09.13-03.42.41:214][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_2.Column)
+[2022.09.13-03.42.41:214][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_3.Column)
+[2022.09.13-03.42.41:215][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_5.Column)
+[2022.09.13-03.42.41:215][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_6.Column)
+[2022.09.13-03.42.41:215][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_7.Column)
+[2022.09.13-03.42.41:215][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_8.Column)
+[2022.09.13-03.42.41:215][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_9.Column)
+[2022.09.13-03.42.41:217][ 88]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/AZTEC_RUN_1.AZTEC_RUN_1:PersistentLevel.Spinner_C_0.Column)
+[2022.09.13-03.42.41:232][ 88]LogWorld: UWorld::CleanupWorld for AZTEC_RUN_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-03.42.41:233][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-03.42.41:234][ 88]MapCheck: New page: Map Check
+[2022.09.13-03.42.41:234][ 88]LightingResults: New page: Lighting Build
+[2022.09.13-03.42.41:290][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.13-03.42.41:357][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:383][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.41:394][ 88]LogWorld: UWorld::CleanupWorld for AZTEC_RUN_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-03.42.41:402][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-03.42.41:453][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.09.13-03.42.41:460][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.13-03.42.41:744][ 88]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_68 in PCD3D_SM5, Default, SM5 (DDC key hash: 738052A48D4B4F533ED0620E57DDF77F71B1B7DB), compiling. 
+[2022.09.13-03.42.41:939][ 88]LogAudio: Display: Audio Device (ID: 1) registered with world 'AZTEC_RUN_2'.
+[2022.09.13-03.42.41:939][ 88]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-03.42.41:939][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-03.42.41:940][ 88]LogAIModule: Creating AISystem for world AZTEC_RUN_2
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:105][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:106][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:106][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:201][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:201][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:201][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:201][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.42:220][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:062][ 88]LogEditorServer: Finished looking for orphan Actors (0.002 secs)
+[2022.09.13-03.42.43:106][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:106][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:107][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:123][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:123][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:123][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:123][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.43:128][ 88]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.42.44:385][ 88]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.09.13-03.42.44:385][ 88]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049895s
+[2022.09.13-03.42.44:386][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.13-03.42.44:405][ 88]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.13-03.42.44:406][ 88]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.832ms to complete.
+[2022.09.13-03.42.44:406][ 88]LogFileHelpers: Loading map 'AZTEC_RUN_2' took 3.225
+[2022.09.13-03.42.44:419][ 88]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002261s (0.194450s overbudget)
+[2022.09.13-03.42.45:060][ 88]LogD3D12RHI: Creating RTPSO with 150 shaders (24 cached, 18 new) took 47.99 ms. Compile time 38.09 ms, link time 9.11 ms.
+[2022.09.13-03.42.45:677][ 89]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.13-03.42.45:680][ 89]LogD3D12RHI: Creating RTPSO with 153 shaders (0 cached, 3 new) took 23.89 ms. Compile time 18.03 ms, link time 5.20 ms.
+[2022.09.13-03.43.03:078][636]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.43.03:078][636]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.43.03:084][636]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_0
+[2022.09.13-03.43.03:085][636]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_0
+[2022.09.13-03.43.03:716][663]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.43.03:716][663]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.43.03:724][663]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_1
+[2022.09.13-03.43.03:725][663]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_1
+[2022.09.13-03.43.49:472][ 89]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.13-03.44.05:990][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.44.05:994][897]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.TriggerVolume_3
+[2022.09.13-03.44.06:005][897]EditorErrors: New page: Actor Reattachment
+[2022.09.13-03.44.31:413][103]LogDerivedDataCache: C:/Users/ROG Primary/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.298 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.13-03.44.34:687][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.44.34:688][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.44.34:693][267]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_2
+[2022.09.13-03.44.34:695][267]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_2
+[2022.09.13-03.44.35:440][301]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.44.35:440][301]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.44.35:448][301]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_3
+[2022.09.13-03.44.35:450][301]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_3
+[2022.09.13-03.44.45:966][847]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.44.45:966][847]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.44.45:971][847]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_4
+[2022.09.13-03.44.45:973][847]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_4
+[2022.09.13-03.44.47:108][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.44.47:108][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.44.47:116][905]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_5
+[2022.09.13-03.44.47:117][905]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_5
+[2022.09.13-03.44.47:917][947]Cmd: DELETE
+[2022.09.13-03.44.47:917][947]Cmd: ACTOR DELETE
+[2022.09.13-03.44.48:011][947]LogEditorActor: Deleted Actor: Checkpoint_BP_C
+[2022.09.13-03.44.48:035][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.13-03.44.48:038][947]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2022.09.13-03.45.14:516][306]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.09.13-03.45.14:517][306]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.09.13-03.45.14:520][306]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.KillZVolume_0
+[2022.09.13-03.45.14:522][306]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.KillZVolume_0
+[2022.09.13-03.45.15:231][335]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.09.13-03.45.15:231][335]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.09.13-03.45.15:238][335]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.KillZVolume_1
+[2022.09.13-03.45.15:239][335]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.KillZVolume_1
+[2022.09.13-03.45.41:026][752]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.45.41:026][752]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.45.41:032][752]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_7
+[2022.09.13-03.45.41:033][752]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_7
+[2022.09.13-03.45.42:101][797]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.45.42:101][797]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.45.42:109][797]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_8
+[2022.09.13-03.45.42:110][797]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_8
+[2022.09.13-03.45.56:485][625]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.45.56:485][625]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.45.56:491][625]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_9
+[2022.09.13-03.45.56:492][625]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_9
+[2022.09.13-03.45.57:405][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.45.57:405][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP_C
+[2022.09.13-03.45.57:414][666]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_10
+[2022.09.13-03.45.57:416][666]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Checkpoint_BP.Checkpoint_BP as actor: Checkpoint_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.Checkpoint_BP_C_10
+[2022.09.13-03.48.01:548][598]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.13-03.48.02:716][662]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.13-03.48.02:727][662]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.09.13-03.48.02:727][662]LogPlayLevel: [PlayLevel] Compiling AZTEC_RUN_2 before play...
+[2022.09.13-03.48.03:202][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.13-03.48.03:204][662]LogPlayLevel: PlayLevel: Blueprint regeneration took 477 ms (1 blueprints)
+[2022.09.13-03.48.03:205][662]PIE: New page: PIE session: AZTEC_RUN_2 (Sep 12, 2022, 5:48:03 PM)
+[2022.09.13-03.48.03:209][662]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.09.13-03.48.03:209][662]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.13-03.48.03:209][662]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AZTEC_RUN_2
+[2022.09.13-03.48.03:651][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.441048s)
+[2022.09.13-03.48.03:651][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2 to /Game/Maps/UEDPIE_0_AZTEC_RUN_2.AZTEC_RUN_2 (0.441145s)
+[2022.09.13-03.48.03:651][662]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-03.48.03:651][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-03.48.03:652][662]LogAIModule: Creating AISystem for world AZTEC_RUN_2
+[2022.09.13-03.48.03:654][662]LogPlayLevel: PIE: World Init took: (0.003000s)
+[2022.09.13-03.48.03:673][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.13-03.48.03:674][662]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.13-03.48.03:674][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.13-03.48.03:674][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.13-03.48.03:674][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.13-03.48.03:674][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.13-03.48.03:674][662]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.13-03.48.03:674][662]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.13-03.48.03:674][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.13-03.48.03:674][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.13-03.48.03:674][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.13-03.48.03:674][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.13-03.48.03:674][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.13-03.48.03:676][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.13-03.48.03:694][662]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2022.09.13-03.48.03:694][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.13-03.48.03:694][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.13-03.48.03:694][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.13-03.48.03:695][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.09.13-03.48.03:695][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.09.13-03.48.03:697][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.09.13-03.48.03:697][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.09.13-03.48.03:697][662]LogInit: FAudioDevice initialized.
+[2022.09.13-03.48.03:697][662]LogAudio: Display: Audio Device (ID: 2) registered with world 'AZTEC_RUN_2'.
+[2022.09.13-03.48.03:713][662]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.13-03.48.03:787][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:787][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:787][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:787][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:787][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:787][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:787][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:787][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:788][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:788][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:788][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:788][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:788][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:850][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:850][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:850][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:850][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.03:863][662]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.48.04:285][662]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AZTEC_RUN_2.AZTEC_RUN_2 up for play (max tick rate 60) at 2022.09.12-22.48.04
+[2022.09.13-03.48.04:289][662]LogWorld: Bringing up level for play took: 0.576143
+[2022.09.13-03.48.04:291][662]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.09.13-03.48.04:321][662]PIE: Server logged in
+[2022.09.13-03.48.04:322][662]PIE: Play in editor total start time 1.598 seconds.
+[2022.09.13-03.48.06:910][663]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.13-03.48.06:933][663]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.13-03.48.06:942][663]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.13-03.48.06:959][663]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.13-03.48.06:967][663]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.09.13-03.48.06:982][663]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.09.13-03.48.20:851][275]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] DiveInput
+[2022.09.13-03.48.23:921][414]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] DiveInput
+[2022.09.13-03.48.32:275][813]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] DiveInput
+[2022.09.13-03.48.33:056][849]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] DiveInput
+[2022.09.13-03.48.33:875][887]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] DiveInput
+[2022.09.13-03.48.35:583][966]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-75.03 Y=493.07 Z=0.00 Location: X=1499.85 Y=1408.63 Z=1165.93 Normal: X=0.52 Y=0.86 Z=0.00 PenetrationDepth:1.274 Actor:StaticMeshActor_5964 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2022.09.13-03.48.38:692][108]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-447.17 Y=-156.17 Z=0.00 Location: X=1277.35 Y=1242.14 Z=1181.54 Normal: X=0.85 Y=-0.04 Z=0.53 PenetrationDepth:3.275 Actor:StaticMeshActor_3975 Component:StaticMeshComponent0 BoneName:None (1 other events since notify)
+[2022.09.13-03.48.42:859][298]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] DiveInput
+[2022.09.13-03.48.44:248][358]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] DiveInput
+[2022.09.13-03.48.47:813][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.48.47:813][514]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AZTEC_RUN_2
+[2022.09.13-03.48.47:816][514]LogWorld: UWorld::CleanupWorld for AZTEC_RUN_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-03.48.47:846][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-03.48.47:873][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.13-03.48.47:880][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-03.48.47:913][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.13-03.48.47:915][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.13-03.48.47:916][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.13-03.48.47:923][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.48.48:086][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.09.13-03.48.48:192][515]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.09.13-03.48.52:255][724]Cmd: TRANSACTION UNDO
+[2022.09.13-03.48.52:255][724]LogEditorTransaction: Undo Move Elements
+[2022.09.13-03.48.54:868][823]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.13-03.48.55:732][841]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.09.13-03.48.55:799][842]LogViewport: Scene viewport resized to 369x176, mode Windowed.
+[2022.09.13-03.48.56:587][862]Cmd: DELETE
+[2022.09.13-03.48.56:587][862]Cmd: ACTOR DELETE
+[2022.09.13-03.48.56:693][862]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2022.09.13-03.48.56:727][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.09.13-03.48.56:730][862]LogEditorActor: Deleted 1 Actors (0.143 secs)
+[2022.09.13-03.49.04:850][264]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.13-03.49.04:861][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-03.49.04:862][264]PIE: New page: PIE session: AZTEC_RUN_2 (Sep 12, 2022, 5:49:04 PM)
+[2022.09.13-03.49.04:862][264]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AZTEC_RUN_2
+[2022.09.13-03.49.05:261][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.399763s)
+[2022.09.13-03.49.05:261][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2 to /Game/Maps/UEDPIE_0_AZTEC_RUN_2.AZTEC_RUN_2 (0.399850s)
+[2022.09.13-03.49.05:261][264]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-03.49.05:261][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-03.49.05:262][264]LogAIModule: Creating AISystem for world AZTEC_RUN_2
+[2022.09.13-03.49.05:264][264]LogPlayLevel: PIE: World Init took: (0.002803s)
+[2022.09.13-03.49.05:284][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.09.13-03.49.05:285][264]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.09.13-03.49.05:285][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.13-03.49.05:285][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.13-03.49.05:285][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.13-03.49.05:285][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.13-03.49.05:285][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.13-03.49.05:286][264]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.13-03.49.05:286][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.13-03.49.05:286][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.13-03.49.05:286][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.13-03.49.05:286][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.13-03.49.05:286][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.13-03.49.05:288][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.13-03.49.05:305][264]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2022.09.13-03.49.05:306][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.13-03.49.05:306][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.13-03.49.05:306][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.13-03.49.05:306][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.09.13-03.49.05:306][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.09.13-03.49.05:308][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.09.13-03.49.05:308][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.09.13-03.49.05:308][264]LogInit: FAudioDevice initialized.
+[2022.09.13-03.49.05:308][264]LogAudio: Display: Audio Device (ID: 3) registered with world 'AZTEC_RUN_2'.
+[2022.09.13-03.49.05:326][264]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.13-03.49.05:395][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:395][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:395][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:395][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:396][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:396][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:396][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:396][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:396][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:396][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:396][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:396][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:396][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:453][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:453][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:453][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:453][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:464][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-03.49.05:882][264]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AZTEC_RUN_2.AZTEC_RUN_2 up for play (max tick rate 60) at 2022.09.12-22.49.05
+[2022.09.13-03.49.05:885][264]LogWorld: Bringing up level for play took: 0.558774
+[2022.09.13-03.49.05:887][264]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.09.13-03.49.05:897][264]PIE: Server logged in
+[2022.09.13-03.49.05:898][264]PIE: Play in editor total start time 1.04 seconds.
+[2022.09.13-03.49.23:210][951]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] DiveInput
+[2022.09.13-03.49.43:221][948]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_1] DiveInput
+[2022.09.13-03.49.44:073][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.49.44:073][989]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AZTEC_RUN_2
+[2022.09.13-03.49.44:076][989]LogWorld: UWorld::CleanupWorld for AZTEC_RUN_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-03.49.44:104][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-03.49.44:125][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.13-03.49.44:132][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-03.49.44:165][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-03.49.44:172][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.13-03.49.44:174][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.13-03.49.44:349][989]LogUObjectHash: Compacting FUObjectHashTables data took  12.46ms
+[2022.09.13-03.49.44:410][990]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.09.13-03.50.01:865][863]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.09.13-03.50.01:865][863]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.09.13-03.50.01:870][863]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.KillZVolume_2
+[2022.09.13-03.50.01:871][863]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.KillZVolume_2
+[2022.09.13-03.50.02:826][901]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.09.13-03.50.02:826][901]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.09.13-03.50.02:832][901]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.KillZVolume_3
+[2022.09.13-03.50.02:834][901]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.KillZVolume_3
+[2022.09.13-03.50.35:268][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.09.13-03.50.35:276][639]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.004756 seconds
+[2022.09.13-03.50.36:298][639]LogSavePackage: Moving output files for package: /Game/Maps/AZTEC_RUN_2
+[2022.09.13-03.50.36:299][639]LogSavePackage: Moving '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/AZTEC_RUN_24F7583654E36454221A108B5C76E6830.tmp' to '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/Maps/AZTEC_RUN_2.umap'
+[2022.09.13-03.50.36:355][639]AssetCheck: New page: Asset Save: AZTEC_RUN_2
+[2022.09.13-03.50.36:355][639]LogContentValidation: Display: Validating World /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2
+[2022.09.13-03.50.44:287][ 31]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.13-03.50.46:547][ 31]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.13-03.50.46:555][ 31]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.09.13-03.50.46:563][ 31]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.09.13-03.50.46:579][ 32]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.09.13-03.50.51:826][330]LogContentBrowser: Attempting asset rename: NewBlueprint -> PushTrap_BP
+[2022.09.13-03.50.51:830][330]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.09.13-03.50.53:100][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps_BP/PushTrap_BP.PushTrap_BP
+[2022.09.13-03.50.53:101][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-03.50.54:401][397]LogViewport: Scene viewport resized to 1222x790, mode Windowed.
+[2022.09.13-03.51.21:820][389]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.13-03.51.34:435][944]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps_BP/Spinner.Spinner
+[2022.09.13-03.51.34:435][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-03.51.34:877][944]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Spinner_C_0.Column has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=10.000
+[2022.09.13-03.52.25:290][958]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.13-03.55.21:236][266]Cmd: TRANSACTION UNDO
+[2022.09.13-03.55.21:237][266]LogEditorTransaction: Undo Move Elements
+[2022.09.13-03.55.21:693][272]Cmd: TRANSACTION UNDO
+[2022.09.13-03.55.21:693][272]LogEditorTransaction: Undo Move Elements
+[2022.09.13-03.55.22:138][290]Cmd: TRANSACTION UNDO
+[2022.09.13-03.55.22:138][290]LogEditorTransaction: Undo Move Elements
+[2022.09.13-03.57.53:674][805]LogSlate: Window 'Delete Variable' being destroyed
+[2022.09.13-03.59.51:645][840]BlueprintLog: New page: Compile PushTrap_BP
+[2022.09.13-03.59.51:740][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.09.13-03.59.59:474][191]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps_BP/PushTrap_BP.PushTrap_BP_C
+[2022.09.13-03.59.59:474][191]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps_BP/PushTrap_BP.PushTrap_BP_C
+[2022.09.13-03.59.59:480][191]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps_BP/PushTrap_BP.PushTrap_BP as actor: PushTrap_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.PushTrap_BP_C_0
+[2022.09.13-03.59.59:481][191]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps_BP/PushTrap_BP.PushTrap_BP as actor: PushTrap_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.PushTrap_BP_C_0
+[2022.09.13-04.00.00:251][221]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps_BP/PushTrap_BP.PushTrap_BP_C
+[2022.09.13-04.00.00:251][221]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps_BP/PushTrap_BP.PushTrap_BP_C
+[2022.09.13-04.00.00:259][221]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps_BP/PushTrap_BP.PushTrap_BP as actor: PushTrap_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.PushTrap_BP_C_1
+[2022.09.13-04.00.00:260][221]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps_BP/PushTrap_BP.PushTrap_BP as actor: PushTrap_BP_C /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2:PersistentLevel.PushTrap_BP_C_1
+[2022.09.13-04.00.02:366][321]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.09.13-04.00.02:503][321]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.09.13-04.00.02:606][321]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.09.13-04.00.02:606][321]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-SQ87OKN6
+[2022.09.13-04.00.02:606][321]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyReport_1.log" -log="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyLog_1.log" -project="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject"  -Device=Win64@LAPTOP-SQ87OKN6'
+[2022.09.13-04.00.02:606][321]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyReport_1.log" -log="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Intermediate/TurnkeyLog_1.log" -project="C:/Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Oops_All_Ruins.uproject"  -Device=Win64@LAPTOP-SQ87OKN6" -nocompile ]
+[2022.09.13-04.00.02:704][324]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.09.13-04.00.05:259][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-04.00.05:259][442]PIE: New page: SIE session: AZTEC_RUN_2 (Sep 12, 2022, 6:00:05 PM)
+[2022.09.13-04.00.05:259][442]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AZTEC_RUN_2
+[2022.09.13-04.00.05:647][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.387522s)
+[2022.09.13-04.00.05:647][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2 to /Game/Maps/UEDPIE_0_AZTEC_RUN_2.AZTEC_RUN_2 (0.387611s)
+[2022.09.13-04.00.05:647][442]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-04.00.05:647][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-04.00.05:647][442]LogAIModule: Creating AISystem for world AZTEC_RUN_2
+[2022.09.13-04.00.05:649][442]LogPlayLevel: PIE: World Init took: (0.002576s)
+[2022.09.13-04.00.05:695][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.09.13-04.00.05:701][442]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.09.13-04.00.05:701][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.13-04.00.05:701][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.13-04.00.05:701][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.13-04.00.05:701][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.13-04.00.05:701][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.13-04.00.05:701][442]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.13-04.00.05:701][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.13-04.00.05:701][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.13-04.00.05:701][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.13-04.00.05:701][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.13-04.00.05:701][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.13-04.00.05:703][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.13-04.00.05:721][442]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2022.09.13-04.00.05:722][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.13-04.00.05:722][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.13-04.00.05:722][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.13-04.00.05:722][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.09.13-04.00.05:722][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.09.13-04.00.05:724][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.09.13-04.00.05:724][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.09.13-04.00.05:724][442]LogInit: FAudioDevice initialized.
+[2022.09.13-04.00.05:724][442]LogAudio: Display: Audio Device (ID: 4) registered with world 'AZTEC_RUN_2'.
+[2022.09.13-04.00.05:743][442]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.13-04.00.05:816][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:816][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:816][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:816][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:816][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:816][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:816][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:816][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:817][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:817][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:817][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:817][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:817][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:874][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:874][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:874][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:874][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.05:886][442]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.06:340][442]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AZTEC_RUN_2.AZTEC_RUN_2 up for play (max tick rate 60) at 2022.09.12-23.00.06
+[2022.09.13-04.00.06:343][442]LogWorld: Bringing up level for play took: 0.599459
+[2022.09.13-04.00.06:345][442]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.09.13-04.00.06:353][442]PIE: Server logged in
+[2022.09.13-04.00.06:354][442]PIE: Play in editor total start time 1.102 seconds.
+[2022.09.13-04.00.23:942][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-04.00.23:942][991]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AZTEC_RUN_2
+[2022.09.13-04.00.23:946][991]LogWorld: UWorld::CleanupWorld for AZTEC_RUN_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-04.00.23:975][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-04.00.24:000][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.13-04.00.24:011][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-04.00.24:063][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-04.00.24:068][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.13-04.00.24:070][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.13-04.00.24:232][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.09.13-04.00.24:316][992]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.09.13-04.00.27:829][134]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2022.09.13-04.00.44:442][924]BlueprintLog: New page: Compile PushTrap_BP
+[2022.09.13-04.00.44:504][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.09.13-04.00.45:095][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps_BP/PushTrap_BP" FILE="../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/Traps_BP/PushTrap_BP.uasset" SILENT=true
+[2022.09.13-04.00.45:102][943]LogSavePackage: Moving output files for package: /Game/Traps_BP/PushTrap_BP
+[2022.09.13-04.00.45:103][943]LogSavePackage: Moving '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Saved/PushTrap_BPD2C5D5AB4D5D3651B7A077BB4191C62B.tmp' to '../../../../../../Users/ROG Primary/Documents/GitHub/Oops-All-Ruins-/Oops_All_Ruins_U5/Content/Traps_BP/PushTrap_BP.uasset'
+[2022.09.13-04.00.45:123][943]AssetCheck: New page: Asset Save: PushTrap_BP
+[2022.09.13-04.00.45:123][943]LogContentValidation: Display: Validating Blueprint /Game/Traps_BP/PushTrap_BP.PushTrap_BP
+[2022.09.13-04.00.47:392][ 54]LogDebuggerCommands: Repeating last play command: Simulate
+[2022.09.13-04.00.47:401][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-04.00.47:401][ 54]PIE: New page: SIE session: AZTEC_RUN_2 (Sep 12, 2022, 6:00:47 PM)
+[2022.09.13-04.00.47:401][ 54]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AZTEC_RUN_2
+[2022.09.13-04.00.47:826][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.424446s)
+[2022.09.13-04.00.47:826][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AZTEC_RUN_2.AZTEC_RUN_2 to /Game/Maps/UEDPIE_0_AZTEC_RUN_2.AZTEC_RUN_2 (0.424532s)
+[2022.09.13-04.00.47:826][ 54]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.13-04.00.47:826][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.13-04.00.47:827][ 54]LogAIModule: Creating AISystem for world AZTEC_RUN_2
+[2022.09.13-04.00.47:829][ 54]LogPlayLevel: PIE: World Init took: (0.002836s)
+[2022.09.13-04.00.47:868][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.09.13-04.00.47:870][ 54]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.09.13-04.00.47:870][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.13-04.00.47:870][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.13-04.00.47:870][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.13-04.00.47:870][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.13-04.00.47:870][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.13-04.00.47:870][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.13-04.00.47:870][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.13-04.00.47:870][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.13-04.00.47:871][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.13-04.00.47:871][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.13-04.00.47:871][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.13-04.00.47:873][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.13-04.00.47:890][ 54]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- USB Audio Device)
+[2022.09.13-04.00.47:890][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.13-04.00.47:890][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.13-04.00.47:890][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.13-04.00.47:891][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.09.13-04.00.47:891][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.09.13-04.00.47:893][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.09.13-04.00.47:894][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.09.13-04.00.47:894][ 54]LogInit: FAudioDevice initialized.
+[2022.09.13-04.00.47:894][ 54]LogAudio: Display: Audio Device (ID: 5) registered with world 'AZTEC_RUN_2'.
+[2022.09.13-04.00.47:914][ 54]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.47:983][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.48:041][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.48:041][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.48:041][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.48:041][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.48:053][ 54]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [Decorative_Altar_V1_Geo] - forcing default material instead.
+[2022.09.13-04.00.48:479][ 54]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AZTEC_RUN_2.AZTEC_RUN_2 up for play (max tick rate 60) at 2022.09.12-23.00.48
+[2022.09.13-04.00.48:482][ 54]LogWorld: Bringing up level for play took: 0.568093
+[2022.09.13-04.00.48:485][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.09.13-04.00.48:493][ 54]PIE: Server logged in
+[2022.09.13-04.00.48:494][ 54]PIE: Play in editor total start time 1.095 seconds.
+[2022.09.13-04.00.55:381][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-04.00.55:381][200]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AZTEC_RUN_2
+[2022.09.13-04.00.55:385][200]LogWorld: UWorld::CleanupWorld for AZTEC_RUN_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.13-04.00.55:416][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-04.00.55:438][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.13-04.00.55:449][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.13-04.00.55:506][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.13-04.00.55:506][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.13-04.00.55:507][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.13-04.00.55:526][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.13-04.00.55:689][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.09.13-04.00.55:773][201]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.09.13-04.01.14:681][ 29]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.13-04.01.14:773][ 29]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.093 s
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: === Handled ensure: ===
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: 
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 858]
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinKnot [SGraphNodeKnot.cpp(406)]). See InvalidateGraphData for more info
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: Stack: 
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffdadd259ab UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffdadd25093 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffdadc2bd48 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffdadd5cf8c UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffdadd5af5d UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddeff62af UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddeff6110 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddf0754ec UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddf0754ec UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddeff6110 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddf0754ec UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8684 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb37ce1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddb4d8945 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddeda904e UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddeda94ca UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:774][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddedd4787 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddeda9b14 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddedfafa9 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffddedfa738 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ff6a4238e7d UnrealEditor.exe!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ff6a4250d9c UnrealEditor.exe!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ff6a4250e8a UnrealEditor.exe!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ff6a4253c4d UnrealEditor.exe!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ff6a4265564 UnrealEditor.exe!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ff6a4268736 UnrealEditor.exe!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffe2b907034 KERNEL32.DLL!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: [Callstack] 0x00007ffe2bac2651 ntdll.dll!UnknownFunction []
+[2022.09.13-04.01.14:775][ 29]LogOutputDevice: Error: 
