@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\rog primary\\documents\\github\\oops-all-ruins-\\oops_all_ruins_u5\\intermediate\\source\\oops_all_ruins.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rog primary\\documents\\github\\oops-all-ruins-\\oops_all_ruins_u5\\intermediate\\build\\win64\\oops_all_ruins\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\rog primary\\documents\\github\\oops-all-ruins-\\oops_all_ruins_u5\\intermediate\\build\\win64\\unrealgame\\development\\oops_all_ruins\\definitions.oops_all_ruins.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
